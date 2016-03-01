@@ -1,3 +1,68 @@
-#INTRODUCTION
 
-This is the introduction.
+{id:Introduction}
+
+# Introduction
+
+This book is a long answer to this short question:
+{blockquote}
+**Can you build a fulfilling life experience around methods and ideas that are purely secular, not based in any religious doctrine?**
+{/blockquote}
+
+If that seems like a pointless question to you, you are probably one of the majority of Americans who profess a religious belief. You naturally assume that when you need an answer to one of life's big questions, you'll find it in that belief, and maybe you will. But some of us do not find any religion satisfactory. Although I stopped being religious the minute I moved away from my parents' home (more on that in Chapter 1), I've known many devoutly religious people, starting with my own parents. When I watch people who diligently practice a religion, I see their practice yielding what seem to be important benefits. I want to ask: are those benefits uniquely "religious", which would make them unavailable to unbelievers like me? Or do they have secular sources? Are all the routes to wholeness, to an integrated life practice, exclusively religious? Or can a secular life practice lead to a meaningful, satisfying life?
+
+This book is my answer, to be shared with others who find religious ideas unhelpful.
+
+## The goods of religious practice
+
+When I observe the life-styles of devout people, I see their religious practice delivering these important values:
+
+* The philosophical comfort of existential validity -- in plain language, assurance that one is not an accident but an intentional creation, with a role in a great story.
+
+* The social and material support of a congregation of like-minded people.
+
+* The psychological benefits of contemplative prayer and meditation.
+
+* The emotional comfort of ritual.
+
+* For a few, the bliss of ecstatic union with the All.
+
+* Constant challenge to be a better person, to transcend one's limits.
+
+* The use of a predefined ethical system.
+
+* Fearless awareness of death and comfort in bereavement.
+
+These are the benefits for which I hope to find secular sources. As a skeptic by inclination and training, I have been quite selective in my search. I only tell you about things I have personally tried, or things that are documented in respected scientific journals, or things that, like the philosophy of Epicurus, are both satisfying to common sense and visibly harmless.
+
+## Chapter summary
+
+Here is what you'll find in the rest of the book.
+
+* [Chapter 1](#Chapter01) says more about the good things a religious practice may give to those who devotedly practice it, and that we want to obtain in other ways.
+
+* [Chapter 2](#Chapter02) asks what it means to be a "mere accident", and shows how contingency can be turned into triumph.
+
+* [Chapter 3[(#Chapter03) reviews research showing how crucial human contacts are to your life and health, and points out techniques to improve them.
+
+* [Chapter 4](#Chapter04) looks at meditation, contemplation, and prayer, and introduces simple meditation practices that have documented benefits.
+
+* [Chapter 5](#Chapter05) shows how important ritual is in everyone's life, and suggests ways to take control of and use rituals.
+
+* [Chapter 6](#Chapter06) lists what's known about the mystical experience, showing that it probably is a real, though rare, state of brain function; then asks if the experience is worth pursuing.
+
+* [Chapter 7](#Chapter07) asks how we find our heroes and models, and where we might find more and better ones.
+
+* [Chapter 8](#Chapter08) tackles the problem of defining and justifying a personal ethical code, drawing elements from a wide range of traditions.
+
+* [Chapter 9](#Chapter09) faces up to death and bereavement and shows ways to prepare for one and deal with the other.
+
+* [Chapter 10](#Chapter10) looks at the research on what makes people happy, and covers some strategies for becoming more happy.
+
+* [Chapter 11](#Chapter11) is about four radical techniques for making oneself more resilient in the face of disaster.
+
+## Notes and References
+
+A numbered reference like this[^^sample_note] refers to one of the end-notes in [this section](#Endnotes). Some notes only give a citation for a quote or statement, but others expand on the main text, or shed a sidelight on it, or sometimes take off at a wild tangent to it. If you want to know more about the sentence with the note, turn to the note; if not, skip it.
+
+In [this section](#Bibliography) is a list of books that can take you deeper into any of the subjects I touch on.
+
