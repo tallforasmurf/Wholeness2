@@ -6,6 +6,6 @@ The repository is shared with Leanpub as a collaborator.
 
 Chapter text files are located in the folder Manuscript.
 
-Referenced images are stored... not sure yet.
+Referenced images are stored in the manuscript/images folder.
 
 Source files and other meta-data are stored locally, not on github.
