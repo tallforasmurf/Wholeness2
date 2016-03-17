@@ -1,1 +1,4 @@
 00_introduction.txt
+01_religious_benefits.txt
+
+13_notes_bibliography.txt
