@@ -7,96 +7,96 @@ Citations to print sources begin with an author's name, like (Gardner 1997). The
 
 ## Introduction
 
-[^^sample_note] Excellent! You found the End Notes!
+[^^sample_note]: Excellent! You found the End Notes!
 
-[^^fading_adherence] TODO REFS
+[^^fading_adherence]: TODO REFS
 
 ## Chapter 1: What Are the Benefits of a Religious Practice?
 
-[^^c01n01] (Bergin and Richards 2000).
+[^^c01n01]: (Bergin and Richards 2000).
 
-[^^c01n02] The phrase "peculiar people," used proudly by fundamentalists to distinguish themselves from "worldly" people, is found in three places in the Bible. Twice in Deuteronomy it is used in wording God's commitment to the Hebrew tribes:
+[^^c01n02]: The phrase "peculiar people," used proudly by fundamentalists to distinguish themselves from "worldly" people, is found in three places in the Bible. Twice in Deuteronomy it is used in wording God's commitment to the Hebrew tribes:
 
-{cite:"Deuteronomy 14:2"}
-{blockquote}
-For thou [art] an holy people unto the LORD thy God, and the LORD hath chosen thee to be a peculiar people unto himself, above all the nations that [are] upon the earth.
-{/blockquote}
+	{cite:"Deuteronomy 14:2"}
+	{blockquote}
+	For thou [art] an holy people unto the LORD thy God, and the LORD hath chosen thee to be a peculiar people unto himself, above all the nations that [are] upon the earth.
+	{/blockquote}
 
-{cite:"Deuteronomy 26:18"}
-{blockquote}
-And the LORD hath avouched thee this day to be his peculiar people, as he hath promised thee, and that [thou] shouldest keep all his commandments...
-{/blockquote}
+	{cite:"Deuteronomy 26:18"}
+	{blockquote}
+	And the LORD hath avouched thee this day to be his peculiar people, as he hath promised thee, and that [thou] shouldest keep all his commandments...
+	{/blockquote}
 
-These verses only justify the Jews as a "peculiar people." For Christians, the more significant use is found in the words of Peter in the New Testament:
+	These verses only justify the Jews as a "peculiar people." For Christians, the more significant use is found in the words of Peter in the New Testament:
 
-{cite:"I Peter 2:9"}
-{blockquote}
-But ye [are] a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:...
-{/blockquote}
+	{cite:"I Peter 2:9"}
+	{blockquote}
+	But ye [are] a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:...
+	{/blockquote}
 
-[^^c01n03] (Goodstein 1999). This news story continues, "I don't believe this is necessarily the end," she added, echoing several others who spoke of apocalyptic signs, "but it's definitely getting closer."
+[^^c01n03]: (Goodstein 1999). This news story continues, "I don't believe this is necessarily the end," she added, echoing several others who spoke of apocalyptic signs, "but it's definitely getting closer."
 
-Apocalyptic ideas add spice to the great story. They are attractive because they offer hope that the dramatic conclusion of the great story might come in the believer's lifetime, rather than in some far future.
+	Apocalyptic ideas add spice to the great story. They are attractive because they offer hope that the dramatic conclusion of the great story might come in the believer's lifetime, rather than in some far future.
 
-[^^c01n04] Believers who say "Get thee behind me, Satan" as a way of rejecting temptation are probably thinking of the story of Christ's Temptation, told this way in the book of Luke:
+[^^c01n04]: Believers who say "Get thee behind me, Satan" as a way of rejecting temptation are probably thinking of the story of Christ's Temptation, told this way in the book of Luke:
 
-{cite:Luke 4:5-8}
-{blockquote}
-And the devil, taking him up into an high mountain, shewed unto him all the kingdoms of the world in a moment of time. And the devil said unto him, All this power will I give thee, and the glory of them... If thou therefore wilt worship me, all shall be thine. And Jesus answered and said unto him, Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
-{/blockquote}
+	{cite:Luke 4:5-8}
+	{blockquote}
+	And the devil, taking him up into an high mountain, shewed unto him all the kingdoms of the world in a moment of time. And the devil said unto him, All this power will I give thee, and the glory of them... If thou therefore wilt worship me, all shall be thine. And Jesus answered and said unto him, Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
+	{/blockquote}
 
-The phrase appears also in the two versions of Christ's rebuke of Peter (Matthew 16:21-23 and Mark 8:31-33), when Peter wants to reject a prophecy of the coming Passion. But this doesn't have the drama of refusing "all the kingdoms of the world."
+	The phrase appears also in the two versions of Christ's rebuke of Peter (Matthew 16:21-23 and Mark 8:31-33), when Peter wants to reject a prophecy of the coming Passion. But this doesn't have the drama of refusing "all the kingdoms of the world."
 
-[^^c01n05] The phrase "two or three are gathered" is used by many Christians to speak of the importance of meeting for worship. It comes from the Gospel of Matthew, where Christ offers his disciples this powerful promise:
+[^^c01n05]: The phrase "two or three are gathered" is used by many Christians to speak of the importance of meeting for worship. It comes from the Gospel of Matthew, where Christ offers his disciples this powerful promise:
 
-{cite:Matthew 18:18-20}
-{blockquote}
-Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven. Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven. For where two or three are gathered together in my name, there am I in the midst of them.
-{/blockquote}
+	{cite:Matthew 18:18-20}
+	{blockquote}
+	Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven. Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven. For where two or three are gathered together in my name, there am I in the midst of them.
+	{/blockquote}
 
-In context, the passage appears to be about matters of discipline within the community of believers, but pastors like to quote only the final sentence as a way of reminding their congregations of the hope and solemnity of the service.
+	In context, the passage appears to be about matters of discipline within the community of believers, but pastors like to quote only the final sentence as a way of reminding their congregations of the hope and solemnity of the service.
 
-[^^c01n06] From (Web Quran),
+[^^c01n06]: From (Web Quran),
 
-{cite:Al-Imran 3:110.5}
-{blockquote}
-"Ye are the best community that hath been raised up for mankind. Ye enjoin right conduct and forbid indecency; and ye believe in Allah." 
-{/blockquote}
+	{cite:Al-Imran 3:110.5}
+	{blockquote}
+	"Ye are the best community that hath been raised up for mankind. Ye enjoin right conduct and forbid indecency; and ye believe in Allah." 
+	{/blockquote}
 
-[^^c01n07] (Matthews et. al. 1998) is an authoritative survey article on the relationship of belief to health issues.
+[^^c01n07]: (Matthews et. al. 1998) is an authoritative survey article on the relationship of belief to health issues.
 
-[^^c01n08] Having others share our beliefs is even more important than having them share our ethnicity (Rokeach 1960):
+[^^c01n08]: Having others share our beliefs is even more important than having them share our ethnicity (Rokeach 1960):
 
 {blockquote}
 We generally seem to prefer, to one degree or another, those with belief systems that are more congruent with our own. Our findings suggest that this organizing principle is far more important than other kinds of categorizations, such as race or ethnic grouping, in determining our relations with others. If race or ethnic categorizations are important it is primarily because they are convenient symbols that stand for complexes of beliefs which to one degree or another are seen to be similar to or different from our own. We find this organizing principle to hold for southerners as well as northerners, for those high in prejudice as well as low in prejudice, and for younger as well as older Jewish children.
 {/blockquote}
 
-[^^c01n09] For example, see [^^c04n04].
+[^^c01n09]: For example, see [^^c04n04].
 
-[^^c01n10] "Make show! Make show!" is what Allan Williams, their then-manager, urged the Beatles to do, when they were bombing in their first Hamburg gig.
+[^^c01n10]: "Make show! Make show!" is what Allan Williams, their then-manager, urged the Beatles to do, when they were bombing in their first Hamburg gig.
 The German audience took up my shout and it soon became a late-night rallying call all over the Reeperbahn area: "Mak show!" (Williams and Marshall 1976)
 
-[^^c01n11] (Berlin and Jahanbegloo 1992). Berlin continues with a gratuitous and completely unwarranted insult, "That is why dry atheists seem to me blind and deaf to some forms of profound human experiences, perhaps the inner life: it is like being aesthetically blind." In [Chapter 5](#Chapter05) we'll find out who's aesthetically blind.
+[^^c01n11]: (Berlin and Jahanbegloo 1992). Berlin continues with a gratuitous and completely unwarranted insult, "That is why dry atheists seem to me blind and deaf to some forms of profound human experiences, perhaps the inner life: it is like being aesthetically blind." In [Chapter 5](#Chapter05) we'll find out who's aesthetically blind.
 
-[^^c01n12] As quoted in (James 1902).
+[^^c01n12]: As quoted in (James 1902).
 
-[^^c01n13] Dostoevsky is frequently quoted as having written "If God does not exist, everything is permitted." Often, only that sentence is quoted, leaving the impression that Dostoevsky himself had that opinion, and implying that Dostoevsky felt morality was impossible without belief.
+[^^c01n13]: Dostoevsky is frequently quoted as having written "If God does not exist, everything is permitted." Often, only that sentence is quoted, leaving the impression that Dostoevsky himself had that opinion, and implying that Dostoevsky felt morality was impossible without belief.
 
-Two things are wrong with this. First, Dostoevsky did not write it in his own voice; he placed the opinion in the mouth of a character, Ivan Karamozov. Second, the sentence itself does not appear in *The Brothers Karamazov*! Anyone can verify this by searching the online text of the book. (For one of several online texts of this book, see (Web Dostoevsky)).
+	Two things are wrong with this. First, Dostoevsky did not write it in his own voice; he placed the opinion in the mouth of a character, Ivan Karamozov. Second, the sentence itself does not appear in *The Brothers Karamazov*! Anyone can verify this by searching the online text of the book. (For one of several online texts of this book, see (Web Dostoevsky)).
 
-It is correct that the proposition "if God does not exist, everything is lawful" is a fair summary of an opinion that Ivan Fyodorovitch Karamazov advances, but Dostoevsky never has Ivan himself expound these beliefs. Other characters explain Ivan's beliefs to each other and to the reader, but they never use the often-quoted sentence. More important, there is nothing in *The Brothers Karamazov* to show how the author himself felt about this issue. To attribute the sentence to Dostoevsky himself is careless scholarship (carelessness of which Jean-Paul Sartre, among many others, seems to have been guilty).
+	It is correct that the proposition "if God does not exist, everything is lawful" is a fair summary of an opinion that Ivan Fyodorovitch Karamazov advances, but Dostoevsky never has Ivan himself expound these beliefs. Other characters explain Ivan's beliefs to each other and to the reader, but they never use the often-quoted sentence. More important, there is nothing in *The Brothers Karamazov* to show how the author himself felt about this issue. To attribute the sentence to Dostoevsky himself is careless scholarship (carelessness of which Jean-Paul Sartre, among many others, seems to have been guilty).
 
-But we can go further. The sentence "if God does not exist, everything is lawful" is a logical implication, "if A then B." In logic, an implication is true only if the antecedent, A, is true. When the antecedent is false, the statement is not negated; it is nullified, made meaningless: if not-A then nothing is asserted about B. So? Well, partway through *The Brothers Karamazov*, Ivan admits to Alyosha that in fact, he believes in God, and apparently has from the beginning. In other words, Ivan has known from the start that his proposition was null, and therefore no more than an intellectual toy. The great irony of the novel is that *others* act on Ivan's toy philosophy with tragic consequences. An irony of modern scholarship is that Dostoevsky's best-known phrase is a sham belief of a character who never states it as it is quoted.
+	But we can go further. The sentence "if God does not exist, everything is lawful" is a logical implication, "if A then B." In logic, an implication is true only if the antecedent, A, is true. When the antecedent is false, the statement is not negated; it is nullified, made meaningless: if not-A then nothing is asserted about B. So? Well, partway through *The Brothers Karamazov*, Ivan admits to Alyosha that in fact, he believes in God, and apparently has from the beginning. In other words, Ivan has known from the start that his proposition was null, and therefore no more than an intellectual toy. The great irony of the novel is that *others* act on Ivan's toy philosophy with tragic consequences. An irony of modern scholarship is that Dostoevsky's best-known phrase is a sham belief of a character who never states it as it is quoted.
 
-[^^c01n14] (Shermer 1999).
+[^^c01n14]: (Shermer 1999).
 
-[^^c01n15] Prager is of course not alone; I have seen opinions like his expressed in, for example, op-ed pieces by Boston's Jeff Jacoby and Detroit's Tony Snow. These sentiments can be given a charitable reading as a popularized version of the Existentialist concept of Nothingness: that without the anchor of a predetermined nature, humankind must make its own way through a void. However, the Existentialist understands that the consequence of Nothingness is both the freedom and the responsibility to blaze an admirable trail into the void. The Nothingness of Existentialism is a challenge to self-transcendence. In contrast, the message that I get from writers like Prager and Jacoby is that there is no valid moral alternative to belief in God; and therefore, unbelievers cannot be moral; and therefore, unbelievers can only be *im*moral; and therefore -- this is never stated but is clearly implied -- unbelievers are dangerous people who ought to be isolated and controlled for the good of society.
+[^^c01n15]: Prager is of course not alone; I have seen opinions like his expressed in, for example, op-ed pieces by Boston's Jeff Jacoby and Detroit's Tony Snow. These sentiments can be given a charitable reading as a popularized version of the Existentialist concept of Nothingness: that without the anchor of a predetermined nature, humankind must make its own way through a void. However, the Existentialist understands that the consequence of Nothingness is both the freedom and the responsibility to blaze an admirable trail into the void. The Nothingness of Existentialism is a challenge to self-transcendence. In contrast, the message that I get from writers like Prager and Jacoby is that there is no valid moral alternative to belief in God; and therefore, unbelievers cannot be moral; and therefore, unbelievers can only be *im*moral; and therefore -- this is never stated but is clearly implied -- unbelievers are dangerous people who ought to be isolated and controlled for the good of society.
 
-[^^c01n16] (Hofstadter 1998).
+[^^c01n16]: (Hofstadter 1998).
 
-[^^c01n17] When Josef Stalin died, I was in grade school. I still remember my mother saying with angry satisfaction, "I guess now he knows whether there's a God or not." It so impressed me that during "current events" period in school that day, I stuck up my pudgy little hand and said "My mother says,..." and quoted her. I cringe to remember this. The teacher's reaction, as I remember, was to change the subject.
+[^^c01n17]: When Josef Stalin died, I was in grade school. I still remember my mother saying with angry satisfaction, "I guess now he knows whether there's a God or not." It so impressed me that during "current events" period in school that day, I stuck up my pudgy little hand and said "My mother says,..." and quoted her. I cringe to remember this. The teacher's reaction, as I remember, was to change the subject.
 
-[^^c01n18] (Sagan 1996).
+[^^c01n18]: (Sagan 1996).
  
 Chapter 2: Finding Validity
 1. (Camus 1955)
