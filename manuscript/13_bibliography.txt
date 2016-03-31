@@ -81,6 +81,8 @@ TODO: add more
 
 ## Print References
 
+TODO: italicize titles
+
 Allen 1999
 : Allen, Marjorie N. What Are Little Girls Made Of? A Guide to Female Role Models in Children's Books . Facts On File, 1999 (ISBN 0-8160-3673-X).
 
@@ -505,7 +507,7 @@ Web Cognitive Therapy
 : <http://iacp.asu.edu>
 
 The Albert Ellis Institute supports Rational Emotive Behavior Therapy with online articles and a catalog of books and tapes at:
-: http://www.rebt.org/
+: <http://www.rebt.org/>
 
 Web Dhammapada
 : The Dhammapada , an ancient collection of poetic aphorisms illuminating aspects of the Buddha's teachings, is available at:
@@ -518,7 +520,7 @@ Web Dostoevsky
 Web Dying
 : A good starting point for an Internet exploration of dying, with many useful articles and links, is:
 : <http://dying.about.com/health/dying/>
-:Other useful starting points include:
+: Other useful starting points include:
 : <http://www.nlm.nih.gov/medlineplus/deathanddying.html>
 : <http://dir.yahoo.com/Society_and_Culture/Death_and_Dying/>
 : <http://www.death-dying.com/>
