@@ -71,10 +71,14 @@ Citations to print sources begin with an author's name, like (Gardner 1997). The
 We generally seem to prefer, to one degree or another, those with belief systems that are more congruent with our own. Our findings suggest that this organizing principle is far more important than other kinds of categorizations, such as race or ethnic grouping, in determining our relations with others. If race or ethnic categorizations are important it is primarily because they are convenient symbols that stand for complexes of beliefs which to one degree or another are seen to be similar to or different from our own. We find this organizing principle to hold for southerners as well as northerners, for those high in prejudice as well as low in prejudice, and for younger as well as older Jewish children.
 {/blockquote}
 
-[^^c01n09]: For example, see [^^c04n04].
+[^^c01n09]: For example, see note [^^c04n04].
 
 [^^c01n10]: "Make show! Make show!" is what Allan Williams, their then-manager, urged the Beatles to do, when they were bombing in their first Hamburg gig.
-The German audience took up my shout and it soon became a late-night rallying call all over the Reeperbahn area: "Mak show!" (Williams and Marshall 1976)
+
+	{cite:Williams and Marshall 1976}
+	{blockquote}
+	The German audience took up my shout and it soon became a late-night rallying call all over the Reeperbahn area: "Mak show!"
+	{/blockquote}
 
 [^^c01n11]: (Berlin and Jahanbegloo 1992). Berlin continues with a gratuitous and completely unwarranted insult, "That is why dry atheists seem to me blind and deaf to some forms of profound human experiences, perhaps the inner life: it is like being aesthetically blind." In [Chapter 5](#Chapter05) we'll find out who's aesthetically blind.
 
@@ -97,8 +101,10 @@ The German audience took up my shout and it soon became a late-night rallying ca
 [^^c01n17]: When Josef Stalin died, I was in grade school. I still remember my mother saying with angry satisfaction, "I guess now he knows whether there's a God or not." It so impressed me that during "current events" period in school that day, I stuck up my pudgy little hand and said "My mother says,..." and quoted her. I cringe to remember this. The teacher's reaction, as I remember, was to change the subject.
 
 [^^c01n18]: (Sagan 1996).
- 
-Chapter 2: Finding Validity
+
+
+## Chapter 2: Finding Validity
+
 1. (Camus 1955)
 2. (Maslow 1964)
 3. Remember, from Biology 101, every sperm and every egg contains a different, random selection of one-half of that parent's genes. You differ physically from your sibling because you got a different randomly selected half of your mother's genes, combined with a different randomly selected half of your father's. If it were not so, all siblings would be identical twins.
@@ -122,7 +128,7 @@ Manipulations of this sort are more productive in Hebrew than they might be in E
 15. You could start by getting a copy of the National Academy of Science's pamphlet Science and Creationism: A View from the National Academy of Sciences, Second Edition , available from (Web NAS 1). Then explore the NAS's special website on Creationism (Web NAS 2). To get a better personal understanding of the depth, applicability, and indeed sheer elegance of the evolutionary concept, read books such as (Miller 1999), (Dennet 1996) or any book by Richard Dawkins or Steven J. Gould.
  
  
-Chapter 3: Finding Community
+## Chapter 3: Finding Community
 1. (Maslow 1971).
 2. (Cohen et. al. 1997).
 3. (Williams 1999).
@@ -133,7 +139,8 @@ Chapter 3: Finding Community
 8. (Hallowell 1999).
 9. You might not be aware that genealogy is a popular hobby with a legion of enthusiastic practitioners. For a quick introduction, see (Web Genealogy).
 10. (Fulghum 1995).
-Chapter 4: Practicing Contemplation and Tranquility
+
+## Chapter 4: Practicing Contemplation and Tranquility
 1. From a web page devoted to the practice of Centering Prayer (a modern contemplative practice), instructions in contemplative prayer from a Fourth-century church father:
 Everyone who seeks for continual recollection of God uses this formula for meditation, intent upon driving every other sort of thought from his heart. You cannot keep the formula before you unless you are free from all bodily cares... The formula is this: `O God, come to my assistance; O Lord, make haste to help me.' 
 2. This and other bits of the history of religion can be found in (Smart 1976), which mentions statuettes of deities in yogic posture. The fact that all Indus Valley figures believed to represent deities are in the same heels-together posture comes from (Kenoyer 1999).
@@ -157,7 +164,7 @@ English translations of major parts of the Pali Canon are available online; see 
 14. Here's how I first learned the benefits of organizing one's account of a problem. Thirty years ago, I was a beginning service representative for IBM, repairing business machines in customers' offices. Often, I would run up against a problem that was beyond me. It is dreadful to be sitting on the floor in someone's office, surrounded by the bits of a disassembled machine, and not have a clue as to what to do next! In these situations I could telephone IBM's regional technical rep, a brilliant but somewhat irascible chap named Gene. When I called him, he would ask a series of crisp, incisive questions that stripped the problem to the bone, and my ego along with it. "Did you try this? Why not? Well, you better try it, hadn't you?" After a few of these sessions, I found myself sitting with my hand on the phone, trying to anticipate the questions Gene would ask so I would have my answers ready. And discovered that, when I did that, I often didn't have to make the call. Just preparing the problem and organizing it so that Gene would have no questions to ask me, was sufficient to show me what I should do next! I joked about how merely thinking about calling Gene was enough to get an answer. But what I had learned was that preparing a clear, concise, and above all a detached description of a problem is often enough to make the solution plain. At the least, it reveals the things you haven't tried and should.
 15. Yet another benefit of prayer, for believers, is that it fosters detachment. After praying about a problem, the believer can "leave it on the altar," let the problem rest, at least for a while, because it has been handed off to a higher power. (Politicians get a similar relief from commissioning a study.) In Chapter 11 we look at detachment as one of the basic stratagems of happiness (See Using detachment). One difference is that detachment as a deliberate practice does not have to put the problem out of mind; it continues to investigate and comprehend the problem.
  
-Chapter 5: Using Ritual
+## Chapter 5: Using Ritual
 1. From the classic Spirits, Stars and Spells (de Camp and de Camp 1966), now sadly out of print.
 2. You think you don't believe in sympathetic magic? OK, here's a test. Take a photograph of someone you care about. Make a copy of it on the office copier. Now, in private, defile that copy: scribble on it, smear it, tear it up, grind your heel on it.
 Go on, I dare you.
@@ -174,7 +181,7 @@ If you can actually do this -- treat a picture of a loved person like the piece 
 12. (Kato 1998).
 13. (Beck and Metrick 1990).
  
-Chapter 6: Pursuing Bliss
+## Chapter 6: Pursuing Bliss
 1. (Bucke 1901).
 2. (Laski 1962).
 3. (Maslow 1964).
@@ -232,7 +239,9 @@ Some turgid fancy wove.
 The dishes done, the skillet still
 Sat greasy on the stove.
 46. (James 1902) Lectures XI, XII, XIII.
-Chapter 7: Inspiring Self-Transcendence
+
+## Chapter 7: Inspiring Self-Transcendence
+
 1. (Maslow 1968).
 2. (Campbell 1968).
 3. (Web Carlyle)
@@ -251,7 +260,9 @@ For the benefit of readers who do not know baseball well, the contest between ba
 15. For the latest on this fast-growing field, do a web search on the phrase "philosophical counseling."
 16. Well, Fabian (a pop star of my youth) comes to mind, and the Monkees. It does happen. But even those people had looks and personal style. Even the most cynical promoter couldn't make a pop star out of just anybody.
 17. (Allen 1999).
-Chapter 8: Articulating Your Ethics
+
+## Chapter 8: Articulating Your Ethics
+
 1. (Dalai Lama 1999).
 2. Here's the logical argument. If I do not grant the right to seek happiness to all other beings at the same time that I claim it for myself, I open a can of worms, philosophically speaking. If I do not agree that "the right to avoid suffering and seek happiness extends to all beings," my only alternative is to assert that "the set of beings that have this right is smaller than the set of all beings." And immediately I have to define that set; in other words, I have to specify who I think has this right and who does not. And none of the possible answers is acceptable.
 One answer is "none have it, the set of beings having a right to avoid suffering is empty." That basically denies the concept of a right, and ends this discussion and the use of this ethical basis. Another answer is to say "only me, of all beings, has the right." But that is the claim of solipsism, the claim that I am the only meaningful being in the world, and Solipsism is easily discredited. (See (Web Philosophy) for an article on Solipsism with its refutations).
@@ -278,7 +289,9 @@ freedom from oppression.
 This is the first gift, the first great gift...
 Anguttara Nikaya VIII.39
 The same formula is repeated for each of the precepts: by adopting each one, the disciple gives "freedom from danger, freedom from animosity, freedom from oppression to limitless numbers of beings," and gains a share in the same.
-Chapter 9: Dancing With Mister D.
+
+## Chapter 9: Dancing With Mister D.
+
 1. There is some change: books on death, dying, grief, and bereavement have multiplied greatly in the latest decade. After I had drafted most of this chapter, Public Broadcasting began airing Bill Moyers' series of programs on death and end-of-life care. American culture is paying more, and more sophisticated, attention to death as we "boomers" begin to feel the edge of death's shadow.
 2. (Duda 1987).
 3. Timothy Leary suggested that society encourages fear of death as a handle for political manipulation:
@@ -330,7 +343,9 @@ On the plane ride I thought about this. The guard's attitude toward death and hu
 29. For example, (Clifford 1999).
 30. Available from, for example, (Web Nolo).
 31. My wife and I went through the work of setting up a probate-avoiding Living Trust in 1998, along with all the other documents mentioned in this section. The whole business took roughly thirty hours of work spread over a month. One time-consuming part was making two trips to the county courthouse to change the deed of our home from ourselves as joint tenants to our Trust. Other time was spent in locating records, making trips to a lawyer's office, and so on.
-Chapter 10: Being Happy
+
+## Chapter 10: Being Happy
+
 1. My introduction to the research on happiness was the clear summary in chapter 9 of (Baumeister 1991). Baumeister's thorough bibliography guided my subsequent reading. David Myers's readable, entertaining survey (Myers 1992) added detail and discussion. Seligman concentrates on the issues of optimism and personal control in (Seligman 1990). These writers agree in the interpretation of the research that I've summarized in the first part of this chapter. Freedman's earlier work (Freedman 1978), although it did not use the same rigorous random selection of other studies, came to generally similar conclusions.
 2. (Ayton 2000).
 3. (Myers 1992).
@@ -356,7 +371,9 @@ Chapter 10: Being Happy
 23. From Walden (Web Thoreau).
 24. If you can tolerate the inherent contradiction of researching "simplicity" with your computer, you can gain quick access to these allies from the sources listed under (Web Simplicity).
 25. (Butler 1999).
-Chapter 11: Being Content
+
+## Chapter 11: Being Content
+
 1. (Bergin and Richards 2000).
 2. I swear, I wrote most of the following paragraphs before reading Epictetus or Epicurus. But since it hews so close to the Epicurean line, I daren't take credit for original thought. I absorbed these ideas from many sources.
 3. (Web Epictetus).
@@ -364,7 +381,3 @@ Chapter 11: Being Content
 5. I had a chance to test this in practice when, on the morning of September 11, 2001 I sat in my bathrobe and watched all the events of that day unfold on TV. One of the many thoughts that passed through my mind that morning was, "Well, here's a perfect example of an event that is out of my control." Knowing that made it possible to recognize what was going on, I think, with less of that common, shell-shocked reaction, "I can't believe it's really happening."
 6. Recently there has been research to support this claim. (It's wonderful when modern research supports ancient philosophy.) Richards and Gross showed emotionally unpleasant pictures to two groups of people. One group was told to suppress any display of emotions while they watched. The other group was told to "view these slides with the detached interest of a medical professional." Not only did the detached group report less emotional distress afterward, they also retained better verbal and nonverbal recall of the experience than did the group who were trying only to suppress their emotions (Richards and Gross 2000).
 7. Results summarized from the research abstracts at (Web Forgiveness). Luskin has also published a book (Luskin 2001).
- 
-
-Contents
-
