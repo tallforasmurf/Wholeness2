@@ -1,6 +1,6 @@
-00_introduction.txt
-01_religious_benefits.txt
-02_validity.txt
+00_introduction.mark
+01_religious_benefits.mark
+02_validity.mark
 
-12_endnotes.txt
-13_bibliography.txt
+12_endnotes.mark
+13_bibliography.mark
