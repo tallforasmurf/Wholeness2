@@ -1,5 +1,6 @@
 00_introduction.txt
 01_religious_benefits.txt
+02_validity.txt
 
 12_endnotes.txt
 13_bibliography.txt
