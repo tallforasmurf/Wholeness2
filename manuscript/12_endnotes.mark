@@ -115,32 +115,54 @@ We generally seem to prefer, to one degree or another, those with belief systems
 
 ## Chapter 2: Finding Validity
 
-[^^c02n01]: The human genome comprises approximately 3 billion *base pairs*, units of the four amino acids Adenine, Thymine, Guanine and Cytosine, usually known by their initials A, T, G and C.
+[^^c02n01]: Ask the internet the question "how many permutations of human DNA are possible" if you need a way to pass a long afternoon of browsing! The genome can be partitioned in different ways and estimates vary widely depending on which numbers you choose to combine -- but the result is always a huge number.
 
-	Base pairs are grouped in units of three to form *codons*. There are 64 possible codons, from AAA to CCC. A *gene* is a sequence of these three-base-pair codons that spells out the formula for making one protein.
+	One approach is to recall that the genome comprises 46 *chromosomes* (bundles of genes). When the body makes a *gamete* (a sperm or an egg) it pulls the DNA apart to make a set of 23 chromosomes (the process called *meiosis*), and each of the 23 has a *random* combination of the genes from that chromosome of the parent cell. So one parent can produce exactly 2^23^ unique gametes from his or her own genome.  When a sperm meets an egg, they combine their chromosomes to make a complete set of 46, composed of those random selections from the parents. Combining these odds, *one pair of parents* could produce up to 70,368,744,177,664 unique children. Multiply that by the number of parents alive to get the count of possible unique genomes in the next generation.
+	
+	Another approach is to count SNPs (Single Nucleotide Polymorphisms, or "snips", see (Web Genetics 1)). Scientists have catalogued the full three-billion base pair DNA of a significant number of people. When they compare the DNA of individuals they find they are mostly the same, but individuals often differ from the typical by a single base pair at many locations. A single SNP might be meaningless, or it might predispose its bearer to a disease, or contribute to a trait like hair color or handedness.
+	
+	As of late 2015 there were about 40,000 "validated" SNPs in a catalog at the NIH (Web Genetics 2). Most SNPs can occur in only one of two forms. Thus a person's DNA can vary from the norm at 40,000 points, giving 2^40000^ possible variations, or about 1.58x10^12041^.
+	
+	I think either number justifies the adjective "astronomical".
 
-	Of the 1 billion codons in human DNA, less than 2% is believed to be functional, actually involved in making proteins. So let's take 20 million (2% of 1 billion) as the number of codons that directly affect the nature of the person who is built from this DNA. The number of combinations of 64 types taken 20 million at a time is about 8.87 x 10^3612359^, a number with more than 3.6 million digits. I think that warrants the adjective "astronomical".
+[^^c02n03]: (Maslow 1964)
 
-1. (Camus 1955)
-2. (Maslow 1964)
-3. Remember, from Biology 101, every sperm and every egg contains a different, random selection of one-half of that parent's genes. You differ physically from your sibling because you got a different randomly selected half of your mother's genes, combined with a different randomly selected half of your father's. If it were not so, all siblings would be identical twins.
-4. Whether we actually do have free will -- and, if we do, how it emerges from the biochemical operations of our brains, which are essentially mechanical and hence, presumably, deterministic -- are questions that have been debated by people with better minds than I have. For an introduction to the difficulties of this slippery problem, you might see (Gardner 1996).
-5. (Malville 1981).
-6. (Heinrich 1994)
-7. Two books that do a good job of communicating this vision are (Malville 1981) and (Goodenough 1998).
-8. The idea that Brahma creates the universe for sport is not only a poetic metaphor but a logical conclusion of Hindu doctrine. Hindu thinkers worked it out this way: If Brahma, the all, is truly infinite, it cannot have needs. Needs would imply a shortcoming, which is not possible of the infinite. And if Brahma is infinite, it cannot have a purpose, because all possible ends are accomplished and contained in the infinite. Yet Brahma clearly chooses to manifest as the physical universe. Why? Not because it needs to, and not to achieve a purpose. What does that leave, other than a desire to amuse itself? The concept is expressed in Sanskrit as liilaa-vibhuuti , playful manifestation. (Banerjee 1975)
-9. For one example of this, read the Law, dictated by God to Moses in Exodus chapter 21, on slave-owning and the treatment of slaves:
-...And the LORD said to Moses, "Thus you shall say to the people of Israel:... Now these are the ordinances which you shall set before them...
-When you buy a Hebrew slave, he shall serve six years, and in the seventh he shall go out free, for nothing. If he comes in single, he shall go out single; if he comes in married, then his wife shall go out with him. If his master gives him a wife and she bears him sons or daughters, the wife and her children shall be her master's and he shall go out alone. But if the slave plainly says, `I love my master, my wife, and my children; I will not go out free,' then his master shall bring him to God, and he shall bring him to the door or the doorpost; and his master shall bore his ear through with an awl; and he shall serve him for life....
-When a man strikes his slave, male or female, with a rod and the slave dies under his hand, he shall be punished. But if the slave survives a day or two, he is not to be punished; for the slave is his money.
-Exodus 20:22 through 21:21 (RSV)
-Don't trust me; read the original to verify that these are instructions said to have been given by God, from the cloud atop Sinai, to Moses, as Law. (The Bible is readily available on the internet; see (Web Bible))
-10. From the Catholic Encyclopedia: "Exegesis is the branch of theology which investigates and expresses the true sense of Sacred Scripture." A lengthy article explains how the exegete identifies the literal sense of the scripture (what it actually says); and from that the derivative sense (what can be inferred from the literal sense); and thence the typical sense (the symbolic or allegorical sense). When these are insufficient, the exegete launches into hermeneutics , that is, creative interpretation of the Divine intent, as opposed to the actual words. The techniques of exegesis are not for everyone to use: "In its human character, the Bible is subject to the same rules of interpretation as profane books; but in its Divine character, it is given into the custody of the Church to be kept and explained..." (Web Catholic Enc.)
-11. Kabbalism consists of a set of methods developed in the 12th and 13th centuries for extracting mystical meanings from the Hebrew Scriptures. The general idea was to find hidden, or encoded, meanings by manipulating the text of the Scripture. In the technique of gematria , letters are assigned numerical values. The scholar forms numerical sums of words and phrases and interprets them to yield new meanings. Using notaricon , the scholar discovers new words by forming acronyms from initial letters of sentences. Using temura , the scholar systematically transposes and otherwise rearranges letters. Other techniques systematically substitute letters for other letters, in effect decrypting the scriptural text as if it were a message in a substitution code.
-Manipulations of this sort are more productive in Hebrew than they might be in English because written Hebrew consists only of consonants, with vowels implied. Michael Drosnin ( The Bible Code ) is a modern-day descendant of the medieval Kabbalists.
-12. (Paine 1794).
-13. (Clarke 1999).
-14. (Feynman 1999).
+[^^c02n05]: Exactly this kind of manipulation is described in the Bible. In Exodus 7, God encourages Moses to ask Pharaoh to free the Israelites from bondage. However, God says "But I will harden Pharaoh's heart, and though I multiply my signs and wonders in the land of Egypt, Pharaoh will not listen to you." The implication is clear: Pharaoh might well have been open to reason, but God *tampered with his mind* to make him reject Moses' request. As a result, a good part of the Egyptian population dies in the subsequent plagues. So it is perfectly biblical that if a person's "nature" is in part "determined" by, say, child abuse, God may well have tampered with the mind of the abuser to bring that about.
+
+[^^c02n06]: Whether we actually do have free will -- and, if we do, how it emerges from the biochemical operations of our brains, which are essentially mechanical and presumably deterministic -- are questions that have been debated by people with better minds than I have. For an introduction to the difficulties of this slippery problem, you might see (Gardner 1996) for an informal discussion, or (Web SEP Free Will) for the technical discussion.
+
+[^^c02n07a]: (Malville 1981).
+
+[^^c02n08]: (Camus 1955)
+
+[^^c02n09]: (Heinrich 1994)
+
+[^^c02n10]: (Web Wiki Exoplanets)
+
+[^^c02n11]: (Web Nature)
+
+[^^c02n12]: Two books that do a great job of communicating this vision are (Malville 1981) and (Goodenough 1998).
+
+[^^c02n13]: The idea that Brahma creates the universe for sport is not only a poetic metaphor, but a logical conclusion of Hindu doctrine. Hindu thinkers worked it out this way: If Brahma, the all, is truly infinite, it cannot have needs. Needs would imply a shortcoming, which is not possible of the infinite. And if Brahma is infinite, it cannot have a purpose, because all possible ends are accomplished and contained in the infinite. Yet Brahma clearly chooses to manifest as the physical universe. Why? Not because it needs to, and not to achieve a purpose. What does that leave, other than a desire to amuse itself? The concept is expressed in Sanskrit as *liilaa-vibhuuti*, playful manifestation. (Banerjee 1975)
+
+[^^c02n14]: Samyutta Nikaya LVI.31; read at (Web Therevada)
+
+[^^c02n15]: For one example of this, read the Law, dictated by God to Moses in Exodus chapter 21, on slave-owning and the treatment of slaves:
+    ...And the LORD said to Moses, "Thus you shall say to the people of Israel:... Now these are the ordinances which you shall set before them...
+    When you buy a Hebrew slave, he shall serve six years, and in the seventh he shall go out free, for nothing. If he comes in single, he shall go out single; if he comes in married, then his wife shall go out with him. If his master gives him a wife and she bears him sons or daughters, the wife and her children shall be her master's and he shall go out alone. But if the slave plainly says, `I love my master, my wife, and my children; I will not go out free,' then his master shall bring him to God, and he shall bring him to the door or the doorpost; and his master shall bore his ear through with an awl; and he shall serve him for life....
+    When a man strikes his slave, male or female, with a rod and the slave dies under his hand, he shall be punished. But if the slave survives a day or two, he is not to be punished; for the slave is his money.
+
+    Don't trust me; read the original to verify that these are instructions said to have been given by God, from the cloud atop Sinai, to Moses, as Law. (The Bible is readily available on the internet; see (Web Bible))
+    
+[^^c02n16]: From the Catholic Encyclopedia: "Exegesis is the branch of theology which investigates and expresses the true sense of Sacred Scripture." A lengthy article explains how the exegete identifies the literal sense of the scripture (what it actually says); and from that the derivative sense (what can be inferred from the literal sense); and from that the typical sense (the symbolic or allegorical sense). When these are insufficient, the exegete launches into *hermeneutics*, that is, creative interpretation of the Divine intent, as opposed to the actual words. The techniques of exegesis are not for everyone to use: "In its human character, the Bible is subject to the same rules of interpretation as profane books; but in its Divine character, it is given into the custody of the Church to be kept and explained..." (Web Catholic Enc.)
+
+[^^c02n17]: Kabbalism consists of a set of methods developed in the 12th and 13th centuries for extracting mystical meanings from the Hebrew Scriptures. The general idea was to find hidden, or encoded, meanings by manipulating the text. In the technique of *gematria*, letters are assigned numerical values. The scholar forms numerical sums of words and phrases and interprets them to yield new meanings. Using *notaricon*, the scholar discovers new words by forming acronyms from initial letters of sentences. Using *temura*, the scholar systematically transposes and otherwise rearranges letters. Other techniques systematically substitute letters for other letters, in effect decrypting the scriptural text as if it were a message in a substitution code.
+
+[^^c02n18]: (Paine 1794).
+
+[^^c02n19]: (Clarke 1999).
+
+[^^c02n20]: (Feynman 1999).
 15. You could start by getting a copy of the National Academy of Science's pamphlet Science and Creationism: A View from the National Academy of Sciences, Second Edition , available from (Web NAS 1). Then explore the NAS's special website on Creationism (Web NAS 2). To get a better personal understanding of the depth, applicability, and indeed sheer elegance of the evolutionary concept, read books such as (Miller 1999), (Dennet 1996) or any book by Richard Dawkins or Steven J. Gould.
  
  
