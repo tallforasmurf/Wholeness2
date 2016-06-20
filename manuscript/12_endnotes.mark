@@ -28,7 +28,6 @@ Citations to print sources begin with an author's name, like (Gardner 1997). The
 
 ## Chapter 1: What Are the Benefits of a Religious Practice?
 
-[^^c01n00]: I've 
 [^^c01n01]: (Bergin and Richards 2000).
 
 [^^c01n02]: The phrase "peculiar people," used proudly by fundamentalists to distinguish themselves from "worldly" people, is found in three places in the Bible. Twice in Deuteronomy it is used in wording God's commitment to the Hebrew tribes:
@@ -83,9 +82,9 @@ Citations to print sources begin with an author's name, like (Gardner 1997). The
 
 [^^c01n08]: Having others share our beliefs is even more important than having them share our ethnicity (Rokeach 1960):
 
-{blockquote}
-We generally seem to prefer, to one degree or another, those with belief systems that are more congruent with our own. Our findings suggest that this organizing principle is far more important than other kinds of categorizations, such as race or ethnic grouping, in determining our relations with others. If race or ethnic categorizations are important it is primarily because they are convenient symbols that stand for complexes of beliefs which to one degree or another are seen to be similar to or different from our own. We find this organizing principle to hold for southerners as well as northerners, for those high in prejudice as well as low in prejudice, and for younger as well as older Jewish children.
-{/blockquote}
+	{blockquote}
+	We generally seem to prefer, to one degree or another, those with belief systems that are more congruent with our own. Our findings suggest that this organizing principle is far more important than other kinds of categorizations, such as race or ethnic grouping, in determining our relations with others. If race or ethnic categorizations are important it is primarily because they are convenient symbols that stand for complexes of beliefs which to one degree or another are seen to be similar to or different from our own. We find this organizing principle to hold for southerners as well as northerners, for those high in prejudice as well as low in prejudice, and for younger as well as older Jewish children.
+	{/blockquote}
 
 [^^c01n09]: For example, see note <!-- [^^c04n04] --> TODO insert ref to note when supported.
 
@@ -154,11 +153,16 @@ We generally seem to prefer, to one degree or another, those with belief systems
 [^^c02n14]: Samyutta Nikaya LVI.31; read at (Web Therevada)
 
 [^^c02n15]: For one example of this, read the Law, dictated by God to Moses in Exodus chapter 21, on slave-owning and the treatment of slaves:
+
+	{blockquote}
+	
     ...And the LORD said to Moses, "Thus you shall say to the people of Israel:... Now these are the ordinances which you shall set before them...
     When you buy a Hebrew slave, he shall serve six years, and in the seventh he shall go out free, for nothing. If he comes in single, he shall go out single; if he comes in married, then his wife shall go out with him. If his master gives him a wife and she bears him sons or daughters, the wife and her children shall be her master's and he shall go out alone. But if the slave plainly says, `I love my master, my wife, and my children; I will not go out free,' then his master shall bring him to God, and he shall bring him to the door or the doorpost; and his master shall bore his ear through with an awl; and he shall serve him for life....
     When a man strikes his slave, male or female, with a rod and the slave dies under his hand, he shall be punished. But if the slave survives a day or two, he is not to be punished; for the slave is his money.
 
     Don't trust me; read the original to verify that these are instructions said to have been given by God, from the cloud atop Sinai, to Moses, as Law. (The Bible is readily available on the internet; see (Web Bible))
+    
+    {/blockquote}
     
 [^^c02n16]: From the Catholic Encyclopedia: "Exegesis is the branch of theology which investigates and expresses the true sense of Sacred Scripture." A lengthy article explains how the exegete identifies the literal sense of the scripture (what it actually says); and from that the derivative sense (what can be inferred from the literal sense); and from that the typical sense (the symbolic or allegorical sense). When these are insufficient, the exegete launches into *hermeneutics*, that is, creative interpretation of the Divine intent, as opposed to the actual words. The techniques of exegesis are not for everyone to use: "In its human character, the Bible is subject to the same rules of interpretation as profane books; but in its Divine character, it is given into the custody of the Church to be kept and explained..." (Web Catholic Enc.)
 
@@ -169,9 +173,10 @@ We generally seem to prefer, to one degree or another, those with belief systems
 [^^c02n19]: (Clarke 1999).
 
 [^^c02n20]: (Feynman 1999).
-15. You could start by getting a copy of the National Academy of Science's pamphlet Science and Creationism: A View from the National Academy of Sciences, Second Edition , available from (Web NAS 1). Then explore the NAS's special website on Creationism (Web NAS 2). To get a better personal understanding of the depth, applicability, and indeed sheer elegance of the evolutionary concept, read books such as (Miller 1999), (Dennet 1996) or any book by Richard Dawkins or Steven J. Gould.
 
 [^^c02n21]: See (Web Buddhist Violence).
+
+[^^c02n22]: You could start by getting a copy of the National Academy of Science's pamphlet Science and Creationism: A View from the National Academy of Sciences, Second Edition , available from (Web NAS 1). Then explore the NAS's special website on Creationism (Web NAS 2). To get a better personal understanding of the depth, applicability, and indeed sheer elegance of the evolutionary concept, read books such as (Miller 1999), (Dennet 1996) or any book by Richard Dawkins or Steven J. Gould.
 
 ## Chapter 3: Finding Community
 
@@ -210,19 +215,21 @@ We generally seem to prefer, to one degree or another, those with belief systems
 ## Chapter 4: Contemplation and Tranquility
 
 [^^c04n01]: A quick online search turns up:
-* "In Silicon Valley, Meditation Is No Fad. It Could Make Your Career" in *Wired* magazine,
-* "Meditation, mindfulness gaining popularity in Silicon Valley" in the Business section of the *San Jose Mercury News*,
-* "Mindfulness: Getting Its Share of Attention" (clever headline!) in the *New York Times*,
-* "The Mindful Revolution", *Time* magazine,
-and so forth. A search on "mindfulness therapy" gets too many hits to count.
+
+    * "In Silicon Valley, Meditation Is No Fad. It Could Make Your Career" in *Wired* magazine,
+    * "Meditation, mindfulness gaining popularity in Silicon Valley" in the Business section of the *San Jose Mercury News*,
+    * "Mindfulness: Getting Its Share of Attention" (clever headline!) in the *New York Times*,
+    * "The Mindful Revolution", *Time* magazine,
+    
+    and so forth. A search on "mindfulness therapy" gets too many hits to count.
 
 [^^c04n02]: On a web page devoted to the practice of Centering Prayer, which is a modern form of contemplation, I found these instructions in contemplative prayer from a Fourth-century church father:
 
-{blockquote}
+    {blockquote}
 
->Everyone who seeks for continual recollection of God uses this formula for meditation, intent upon driving every other sort of thought from his heart. You cannot keep the formula before you unless you are free from all bodily cares... The formula is this: `O God, come to my assistance; O Lord, make haste to help me.'
+    Everyone who seeks for continual recollection of God uses this formula for meditation, intent upon driving every other sort of thought from his heart. You cannot keep the formula before you unless you are free from all bodily cares... The formula is this: `O God, come to my assistance; O Lord, make haste to help me.'
 
-{/blockquote}
+    {/blockquote}
 
 [^^c04n03]: This and other bits of the history of religion can be found in (Smart 1976), which mentions statuettes of deities in yogic posture. The fact that all Indus Valley figures believed to represent deities are in the same heels-together posture comes from (Kenoyer 1999).
 
@@ -235,33 +242,33 @@ and so forth. A search on "mindfulness therapy" gets too many hits to count.
 
 [^^c04n07]: The need for patience and non-striving is repeated in many Buddhist-oriented books on meditation, but writings in the Christian contemplative tradition call for the same attitude, for example:
 
-{blockquote}
+    {blockquote}
 
->Fight always with your thoughts and call them back when they wander away. God does not demand of those under obedience that their thoughts be totally undistracted when they pray. And do not lose heart when your thoughts are stolen away. Just remain calm, and constantly call your mind back. (Climacus 1982)
+    Fight always with your thoughts and call them back when they wander away. God does not demand of those under obedience that their thoughts be totally undistracted when they pray. And do not lose heart when your thoughts are stolen away. Just remain calm, and constantly call your mind back. (Climacus 1982)
 
-{/blockquote}
+    {/blockquote}
 
 [^^c04n08]: Hypnogogic hallucinations are that visions that appear to some people on the threshold of sleep. Freud summarized them as follows in the first chapter of *The Interpretation of Dreams*:
 
-{blockquote}
+    {blockquote}
 
-> ...hypnogogic hallucinations... are those very vivid and changeable pictures which with many people occur constantly during the period of falling asleep, and which may linger for a while even after the eyes have been opened. ...Not only pictures, but auditory hallucinations of words, names, etc., may also occur hypnogogically, and then repeat themselves in the dream, like an overture announcing the principal motif of the opera which is to follow. (Web Freud)
+     ...hypnogogic hallucinations... are those very vivid and changeable pictures which with many people occur constantly during the period of falling asleep, and which may linger for a while even after the eyes have been opened. ...Not only pictures, but auditory hallucinations of words, names, etc., may also occur hypnogogically, and then repeat themselves in the dream, like an overture announcing the principal motif of the opera which is to follow. (Web Freud)
 
-{/blockquote}
+    {/blockquote}
 
-Most people who have hypnogogic visions see static images: faces, scenes. Others (including myself) see only abstract textures or patterns, or washes of light. However, a few people report vivid, detailed, and emotion-laden hallucinations in the hypnogogic state. When hypnogogic visions are combined with sleep paralysis, the result can be the kind of terrifying experiences that gave rise to legends of succubi and demon possession. Experiences of that intensity seem unlikely during basic mindfulness meditation, if only because sleep paralysis seems unlikely in the erect meditative posture.
+    Most people who have hypnogogic visions see static images: faces, scenes. Others (including myself) see only abstract textures or patterns, or washes of light. However, a few people report vivid, detailed, and emotion-laden hallucinations in the hypnogogic state. When hypnogogic visions are combined with sleep paralysis, the result can be the kind of terrifying experiences that gave rise to legends of succubi and demon possession. Experiences of that intensity seem unlikely during basic mindfulness meditation, if only because sleep paralysis seems unlikely in the erect meditative posture.
 
 [^^c04n09]: In everyday speech, "meditation" and "contemplation" are almost synonyms. In this chapter I use "meditation" to mean a physical, nonverbal focus, and "contemplation" to mean a focus that includes words or ideas. This is based on present-day Western practice, rooted in Asian traditions, in which meditation is a state in which inner speech is avoided:
 
-{blockquote}
+    {blockquote}
 
->There are literally hundreds of practices which can be listed under the heading of "meditation." All of these have in common the ability to bring about a special kind of free-floating attention where rational thought is bypassed and words are of far less importance than in everyday life. (Carrington 1977)
+    There are literally hundreds of practices which can be listed under the heading of "meditation." All of these have in common the ability to bring about a special kind of free-floating attention where rational thought is bypassed and words are of far less importance than in everyday life. (Carrington 1977)
 
-{/blockquote}
+    {/blockquote}
 
-Be aware that in books centered on Christian mystical tradition, like (Underhill 1915), "contemplation" is used for nonverbal worship and "meditation" for verbal prayer -- just the reverse of the way I'm using the words. The key point is that there is a spectrum of practices which vary in the amount of verbal content you permit, and that different practices have different effects.
+    Be aware that in books centered on Christian mystical tradition, like (Underhill 1915), "contemplation" is used for nonverbal worship and "meditation" for verbal prayer -- just the reverse of the way I'm using the words. The key point is that there is a spectrum of practices which vary in the amount of verbal content you permit, and that different practices have different effects.
 
-: (Benson 1975) was an early trend-setting paper on meditation, and introduced the term "relaxation response" for a cluster of physical relaxation symptoms that meditation seemed to induce.
+[^^c04n10]: (Benson 1975) was an early trend-setting paper on meditation, and introduced the term "relaxation response" for a cluster of physical relaxation symptoms that meditation seemed to induce.
 
 [^^c04n11]: For a sampling of the many contemplation-based self-help systems available, perform a subject search at your favorite online bookseller for books with the subject words "self-help meditation". *Caveat emptor*.
 
@@ -269,13 +276,11 @@ Be aware that in books centered on Christian mystical tradition, like (Underhill
 
 [^^c04n13]: The Buddha taught for 40 years around 400 B.C.E., a time when a teacher's words were preserved by verbal transmission from teacher to student. Around 200 B.C.E., Buddhists held a conference and wrote down all they could remember of these teachings. They wrote in Pali, a linguistic relative of Sanskrit. Those writings -- modified by the errors, omissions, and interpolations of 80-odd generations of scribes and translators -- survive today as the Pali Canon. The Pali Canon is similar in age, and in its method of transmission (manual copying by devoted scholars), to two other important traditional documents: the Hebrew scriptures, and the Dialogues of Socrates. The Pali Canon is more like Plato's record of Socrates' teachings, in that it aims to convey the teachings of one man. We cannot be sure we have an accurate account of the words of either Socrates or the Buddha, but we can guess when the Canon claims the Buddha taught such-and-such, and especially when the same idea turns up several times using the similar terms and images, that it is fairly sure that the historical Buddha actually said something pretty much kinda like that.
 
-English translations of major parts of the Pali Canon are available online; see (Web Pali Canon).
+    English translations of major parts of the Pali Canon are available online; see (Web Pali Canon).
 
  (Williams 1989).
 
 [^^c04n15]: Here's how I first learned the benefits of organizing one's account of a problem. Several decades ago, I was a beginning service representative for IBM, repairing business machines in customers' offices. Often, I would run up against a problem that was beyond me. It is dreadful to be sitting on the floor in someone's office, surrounded by the bits of a disassembled machine, and not have a clue as to what to do next! In these situations I could telephone IBM's regional technical rep, a brilliant but somewhat irascible chap named Gene. When I called him, he would ask a series of crisp, incisive questions that stripped the problem to the bone, and my ego along with it. "Did you try this? Why not? Well, you better try it, hadn't you?" After a few of these sessions, I found myself sitting with my hand on the phone, trying to anticipate the questions Gene would ask so I would have my answers ready. And discovered that, when I did that, I often didn't have to make the call! Just preparing the problem and organizing it so that Gene would have no questions to ask me, was sufficient to show me what I should do next. I joked about how merely thinking about calling Gene was enough to get an answer. But what I had learned was that preparing a clear, concise, and above all a *detached* description of a problem was often enough to make the solution obvious. At the least, it reveals the things you haven't tried and should.
-
-15. Yet another benefit of prayer, for believers, is that it fosters detachment. After praying about a problem, the believer can "leave it on the altar," let the problem rest, at least for a while, because it has been handed off to a higher power. (Politicians get a similar relief from commissioning a study.) In Chapter 11 we look at detachment as one of the basic stratagems of happiness (See Using detachment). One difference is that detachment as a deliberate practice does not have to put the problem out of mind; it continues to investigate and comprehend the problem.
  
 ## Chapter 5: Using Ritual
 1. From the classic Spirits, Stars and Spells (de Camp and de Camp 1966), now sadly out of print.
