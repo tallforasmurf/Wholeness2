@@ -3,7 +3,8 @@
 02_validity.mark
 03_community.mark
 04_tranquility.mark
+05_ritual.mark
 
 XA_Lubben.mark
-12_endnotes.mark
 13_bibliography.mark
+12_endnotes.mark
