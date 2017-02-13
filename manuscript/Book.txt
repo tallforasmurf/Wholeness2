@@ -11,6 +11,6 @@
 10_happiness.mark
 11_resilience.mark
 
-#XA_Lubben.mark
-#13_bibliography.mark
+XA_Lubben.mark
+13_bibliography.mark
 12_endnotes.mark
