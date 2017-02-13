@@ -1,6 +1,6 @@
 00_introduction.mark
 01_religious_benefits.mark
-#02_validity.mark
+02_validity.mark
 #03_community.mark
 #04_tranquility.mark
 #05_ritual.mark
