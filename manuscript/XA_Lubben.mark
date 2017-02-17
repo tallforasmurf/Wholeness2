@@ -1,51 +1,73 @@
+
 {id: Appendix_A}
+
 # Appendix A: Lubben Social Network Scale
 
-The Lubben Social Network Scale[^^cxan01] is a simple questionnaire that gauges your social connectivity. You can administer this to yourself easily: just answer the following simple questions. Nobody but you will know your answers, so there's no point in not being completely honest.
+The Lubben Social Network Scale[^^cxan01] is a simple questionnaire that gauges your social connectivity. It's an easy quiz: just answer the following simple questions. Nobody but you will know your answers, so you may as well be completely honest.
 
 Choose one answer to each question; then give yourself the number of points shown in (parens) after that answer. Your score is the total of the points. For example, if you choose the answer *two* for every question, your score would be 6×2=12.
+
+If your score is 12 or above, you should not have any concern about your social connectivity. The body of [Chapter 3](#Chapter03) will be of only academic interest to you.
+
+However, if your score is less than 12, it is a fact that by becoming more connected to other people, you can sharply lessen your odds of dying(!) and increase the odds that you will feel satisfied with your life. The rest of [Chapter 3](#Chapter03) offers some ideas to help you move in that direction.
 
 **reviewers:** you probably can't read this very well. Real Soon Now the leanpub platform will format it as a nice table. Meanwhile if you want to take the quiz, you can find it nicely formatted at this URL:  
 
 http://www.bc.edu/schools/gssw/lubben/downloads/\_jcr\_content/content/download_0/file.res/LSNS6.pdf
 
 
+TODO format properly as a table when leanpub supports full table formatting
+
 ~~~~~~~~
 
-TODO format properly as a table when leanpub supports full table formatting
+    Considering people to whom you are related by birth, marriage, adoption, etc,:
+
+    1. How many relatives do you see or hear from at least once a month?
+        none(0)  one(1)  two(2)  three or four(3)  five to eight(4) nine or more(5)
+
+    2. How many relatives do you feel at ease with that you can talk about private matters?
+        none(0)  one(1)  two(2)  three or four(3)  five to eight(4) nine or more(5)
+
+    3. How many relatives do you feel close to such that you could call on them for help?
+        none(0)  one(1)  two(2)  three or four(3)  five to eight(4) nine or more(5)
+   
+    Considering all of your friends including those who live in your neighborhood:
+    
+    4. How many of your friends do you see or hear from at least once a month?
+        none(0)  one(1)  two(2)  three or four(3)  five to eight(4) nine or more(5)
+
+    5. How many friends do you feel at ease with that you can talk about private matters? 
+        none(0)  one(1)  two(2)  three or four(3)  five to eight(4) nine or more(5)
+
+    6. How many friends do you feel close to such that you could call on them for help?
+        none(0)  one(1)  two(2)  three or four(3)  five to eight(4) nine or more(5)
+
+~~~~~~~~
 
 {title="LUBBEN SOCIAL NETWORK SCALE – 6 (LSNS-6)"}
 {width="wide"}
 |----------|---------|---------|-------------------|-------------------|------------------|
 | Considering people to whom you are related by birth, marriage, adoption, etc,:          |
 |----------|---------|---------|-------------------|-------------------|------------------|
-
 | 1. How many relatives do you see or hear from at least once a month?                    |
+|----------|---------|---------|-------------------|-------------------|------------------|
 |*none* (0)|*one* (1)|*two* (2)|*three or four* (3)|*five to eight* (4)|*nine or more* (5)|
-
+|----------|---------|---------|-------------------|-------------------|------------------|
 | 2. How many relatives do you feel at ease with that you can talk about private matters? |
 |*none* (0)|*one* (1)|*two* (2)|*three or four* (3)|*five to eight* (4)|*nine or more* (5)|
-
+|----------|---------|---------|-------------------|-------------------|------------------|
 | 3. How many relatives do you feel close to such that you could call on them for help?   |
 |*none* (0)|*one* (1)|*two* (2)|*three or four* (3)|*five to eight* (4)|*nine or more* (5)|
-
 |----------|---------|---------|-------------------|-------------------|------------------|
 | Considering all of your friends including those who live in your neighborhood:          |
 |----------|---------|---------|-------------------|-------------------|------------------|
-
 | 4. How many of your friends do you see or hear from at least once a month?              |
+|----------|---------|---------|-------------------|-------------------|------------------|
 |*none* (0)|*one* (1)|*two* (2)|*three or four* (3)|*five to eight* (4)|*nine or more* (5)|
-
+|----------|---------|---------|-------------------|-------------------|------------------|
 | 5. How many friends do you feel at ease with that you can talk about private matters?   |
 |*none* (0)|*one* (1)|*two* (2)|*three or four* (3)|*five to eight* (4)|*nine or more* (5)|
-
+|----------|---------|---------|-------------------|-------------------|------------------|
 | 6. How many friends do you feel close to such that you could call on them for help?     |
 |*none* (0)|*one* (1)|*two* (2)|*three or four* (3)|*five to eight* (4)|*nine or more* (5)|
-
 |----------|---------|---------|-------------------|-------------------|------------------|
-
-~~~~~~~~
-
-If your score is 12 or above, you should not have any concern about your social connectivity. The body of [Chapter 3](#Chapter03) will be of only academic interest to you.
-
-However, if your score is less than 12, it is a fact that by becoming more connected to other people, you can sharply lessen your odds of dying(!) and increase the odds that you will feel satisfied with your life. The rest of [Chapter 3](#Chapter03) offers some ideas to help you move in that direction.
