@@ -9,14 +9,14 @@
 
 	* More incoming Harvard freshmen identify as "agnostic" than Catholic or Protestant; self-identified "atheists" almost equal Catholics. See [Web Crimson](http://features.thecrimson.com/2015/freshman-survey/lifestyle/) (retrieved 6 July 17).
 
-{id:OPCIT2}
+{id:OPCIT_PAS}
 [^^c00n02]: See [Web Pew American Spirituality](http://www.pewresearch.org/fact-tank/2016/01/21/americans-spirituality/) (retrieved 6 July 17).
 
 [^^c00n03]: Excellent! You found the End Notes! To get back to where you were, just click the note number at the start of this paragraph!
 
-[^^c01n0a]: The church building is gone now. The Assemblies of God was, and still is, a Protestant denomination that stresses biblical literalism, salvation by faith, and speaking in tongues as a demonstration of "the gift of the Holy Spirit" (Web Assemblies).
+[^^c01n0a]: The church building is gone now. The Assemblies of God was, and still is, a Protestant denomination that stresses biblical literalism, salvation by faith, and speaking in tongues as a demonstration of "the gift of the Holy Spirit". Today there is a world-wide organization of Assemblies of God churches in various countries that together constitute a major branch of Protestant religion.
 
-{id:OPCIT1}
+{id:OPCIT_BR}
 [^^c01n01]: Bergin, Allen E. and P. Scott Richards. "Religious Values and Mental Health" in *Encyclopedia of Psychology* Vol.7 p59-62. Oxford University Press, 2000 (ISBN 1-55798-187-6).
 
 [^^c01n02]: The phrase "peculiar people," used proudly by fundamentalists to distinguish themselves from "worldly" people, is found in three places in the Bible. Twice in Deuteronomy it is used in wording God's commitment to the Hebrew tribes:
@@ -61,7 +61,7 @@
 	"Ye are the best community that hath been raised up for mankind. Ye enjoin right conduct and forbid indecency; and ye believe in Allah." (Ali'Imran 3:110)
 	{/blockquote}
 
-{id:OPCIT5}
+{id:OPCIT_MATT}
 [^^c01n07]: An authoritative survey article on the relationship of belief to health issues is Matthews et. al. "Religious Commitment and Health Status: A Review of the Research and Implications for Family Medicine." *Archives of Family Medicine* Vol.7 No.2 (March/April 1998).
 
 [^^c01n08]: Having others share our beliefs is even more important than having them share our ethnicity. From Rokeach, Milton, *The Open and Closed Mind*. Basic Books, 1960:
@@ -70,7 +70,7 @@
 	We generally seem to prefer, to one degree or another, those with belief systems that are more congruent with our own. Our findings suggest that this organizing principle is far more important than other kinds of categorizations, such as race or ethnic grouping, in determining our relations with others. If race or ethnic categorizations are important it is primarily because they are convenient symbols that stand for complexes of beliefs which to one degree or another are seen to be similar to or different from our own. We find this organizing principle to hold for southerners as well as northerners, for those high in prejudice as well as low in prejudice, and for younger as well as older Jewish children.
 	{/blockquote}
 
-[^^c01n09A]: [Web Pew American Spirituality op.cit](#OPCIT2)
+[^^c01n09A]: [Web Pew American Spirituality op.cit](#OPCIT_PAS)
 
 [^^c01n10]: "Make show! Make show!" is what Allan Williams, their then-manager, urged the Beatles to do, when they were bombing in their first Hamburg gig. (Williams, Allen and William Marshall, *The Man Who Gave the Beatles Away*. Ballantine Books, 1975 (ISBN 0345-27074-6))
 
@@ -108,9 +108,9 @@
 
 	One approach is to recall that the genome comprises 46 *chromosomes* (bundles of genes). When the body makes a *gamete* (a sperm or an egg) it pulls the DNA apart to make a set of 23 chromosomes (the process called *meiosis*), and each of the 23 has a *random* combination of the genes from that chromosome of the parent cell. So one parent can produce exactly 2^23^ unique gametes from his or her own genome.  When a sperm meets an egg, they combine their chromosomes to make a complete set of 46, composed of those random selections from the parents. Combining these odds, *one pair of parents* could produce up to 70,368,744,177,664 unique children. Multiply that by the number of parents alive to get the count of possible unique genomes in the next generation.
 	
-	Another approach is to count SNPs (Single Nucleotide Polymorphisms, or "snips", see (Web Genetics 1)). Scientists have catalogued the full three-billion base pair DNA of a significant number of people. When they compare the DNA of individuals they find they are mostly the same, but individuals often differ from the typical by a single base pair at many locations. A single SNP might be meaningless, or it might predispose its bearer to a disease, or contribute to a trait like hair color or handedness.
+	Another approach is to count SNPs (Single Nucleotide Polymorphisms, or "snips" (further described at [this link](http://learn.genetics.utah.edu/content/precision/snips/)). Scientists have catalogued the full three-billion base pair DNA of a significant number of people. When they compare the DNA of individuals they find they are mostly the same, but individuals often differ from the typical by a single base pair at many locations. A single SNP might be meaningless, or it might predispose its bearer to a disease, or contribute to a trait like hair color or handedness.
 	
-	As of late 2015 there were about 40,000 "validated" SNPs in a catalog at the NIH (Web Genetics 2). Most SNPs can occur in only one of two forms. Thus a person's DNA can vary from the norm at 40,000 points, giving 2^40000^ possible variations, or about 1.58x10^12041^.
+	As of late 2015 there were about 40,000 "validated" SNPs in a catalog at the NIH (online at [this link](http://www.ncbi.nlm.nih.gov/projects/SNP/snp_summary.cgi)). Most SNPs can occur in only one of two forms. Thus a person's DNA can vary from the norm at 40,000 points, giving 2^40000^ possible variations, or about 1.58x10^12041^.
 	
 	I think either number justifies the adjective "astronomical".
 
@@ -120,7 +120,7 @@
 
 [^^c02n06]: Whether we actually do have free will -- and, if we do, how it emerges from the biochemical operations of our brains, which are essentially mechanical and presumably deterministic -- are questions that have been debated by people with better minds than I have. For an introduction to the difficulties of this slippery problem, you might see Gardner, Martin, "The Mystery of Free Will" in *The Night Is Large: Collected Essays 1938-1995* (St. Martin's Press, 1996) for an informal discussion, or the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/freewill/) for the technical discussion.
 
-{id:OPCIT3}
+{id:OPCIT_MALV}
 [^^c02n07a]: Malville, J. McKim. *The Fermenting Universe: Myths of Eternal Change*. The Seabury Press, NY 1981; ISBN 0-8064-2345-8.
 
 [^^c02n08]: Camus, Albert. "The Myth of Sisyphus" in: O'Brien, Justin (tr). *The Myth of Sisyphus and other essays*, Vintage Books, 1991 (ISBN 0-679-73373-6). Although this famous essay is still in copyright, you can with some searching find it as an online etext.
@@ -131,13 +131,13 @@
 
 [^^c02n11]: ["One Bound Planet per Milky Way Star"](http://www.nature.com/nature/journal/v481/n7380/full/nature10684.html) (retrieved 6 July 17).
 
-[^^c02n12]: Two books that do a great job of communicating this vision are [Malville, op.cit.](#OPCIT3) and Goodenough, Ursula, *The Sacred Depths of Nature*. Oxford University Press, 1998 (ISBN 0195126130).
+[^^c02n12]: Two books that do a great job of communicating this vision are [Malville, op.cit.](#OPCIT_MALV) and Goodenough, Ursula, *The Sacred Depths of Nature*. Oxford University Press, 1998 (ISBN 0195126130).
 
 [^^c02n13]: The idea that Brahma creates the universe for sport is not just a poetic metaphor; it is a logical conclusion of Hindu doctrine. Hindu thinkers worked it out this way: If Brahma, the all, is truly infinite, it cannot have needs. Needs would imply a shortcoming, which is not possible of the infinite. And if Brahma is infinite, it cannot have a purpose, because all possible ends are accomplished and contained in the infinite. Yet Brahma clearly chooses to manifest as the physical universe. Why? Not because it needs to; and not to achieve a purpose. What does that leave, other than a desire to amuse itself? The concept is expressed in Sanskrit as *liilaa-vibhuuti*, playful manifestation. (Banerjee, Nikunja Bihari. *The Spirit of Indian Philosophy*. Curzon Press,1975)
 
 [^^c02n13a]: Lyubomirsky, Sonya, *The How of Happiness: A new approach to getting the life you want*, Penguin Books 2007; ISBN 978-1-59420-148-6.
 
-{id:OPCIT8}
+{id:OPCIT_SAM}
 [^^c02n14]: Samyutta Nikaya LVI.31. The recorded teachings of the Buddha are available online at several places including [Access to Insight](http://accesstoinsight.org) and [Vipassana.com](http://www.vipassana.com).
 
 [^^c02n15]: For one example of this, read the Law, dictated by God to Moses in Exodus chapter 21, on slave-owning and the treatment of slaves:
@@ -168,19 +168,19 @@
 
 [^^c03n01]: *Social Epidemiology, 2nd Ed.*, Lisa F. Berkman, Ichiro Kawachi, M. Maria Glymour, eds., Oxford University Press, 2014.
 
-{id:OPCIT4}
+{id:OPCIT_PUTNAM}
 [^^c03n02]: Putnam, Robert D., *Bowling Alone: The Collapse and Revival of American Community*, Simon & Schuster, 2000 (ISBN 0-684-83283-6), p. 326.
 
-{id:OPCIT6}
+{id:OPCIT_RL}
 [^^c03n05]: Rodin, J. and E. Langer. "Long-term effects of a control-relevant intervention with the institutionalized aged." *Journal of Personality and Social Psychology*, Vol.35 p897-902. Summarized in Kabat-Zinn, John, *Full Catastrophe Living*. Bantam Doubleday Dell, 1990 (ISBN 0-385-30312-2).
 
 [^^c03n06]: For his popular treatment of the research, see Pennebaker, Dr. James W., *Writing to Heal: A guided journal on recovering from trauma and emotional upheaval*, New Harbinger Publications 2004. Selections from his scholarly papers are [available online](http://www.utexas.edu/cola/psychology/faculty/pennebak#selected-publications), including the one quoted here.
 
 [^^c03n06a]: Smyth, J.M., et.al. "Effects of writing about stressful experience on symptom reduction in patients with asthma and rheumatoid arthritis." *Journal of the American Medical Association* Vol.281 p1304-1309. Summarized in *Mind/Body Health Newsletter*, Vol.VIII No.3.
 
-[^^c03n07]: [Matthews, op.cit](#OPCIT5)
+[^^c03n07]: [Matthews, op.cit](#OPCIT_MATT)
 
-[^^c03n08]: Documented in [Putnam, op.cit](#OPCIT4), p. 326.
+[^^c03n08]: Documented in [Putnam, op.cit](#OPCIT_PUTNAM), p. 326.
 
 [^^c03n08a]: "Association of Religious Service Attendance with Mortality Among Women", *JAMA Intern Med.* 2016;176(6):777-785. doi:10.1001; also [available online](http://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2521827?guestAccessKey=2a74e611-aab1-4980-a6fe-c553cd426587&utm_source=reddit&utm_medium=referral&utm_campaign=amplification-reddit_ama&utm_content=tyler_vanderweele&utm_term=82616)
 
@@ -224,7 +224,7 @@
 
 [^^c04n03]: Yes, you may use the timer in your phone, but only if you put the phone in Airplane mode first!
 
-[^^c04n05]: An early pioneer in the use of mindfulness meditation for stress relief was John Kabat-Zinn. After the publication of [his book, op.cit.](#OPCIT6), meditation for control of pain and stress has been taken up as a mainstay of "alternative medicine" clinics at a number of hospitals; and as noted above, it is ubiquitous today.
+[^^c04n05]: An early pioneer in the use of mindfulness meditation for stress relief was John Kabat-Zinn. After the publication of [his book, op.cit.](#OPCIT_RL), meditation for control of pain and stress has been taken up as a mainstay of "alternative medicine" clinics at a number of hospitals; and as noted above, it is ubiquitous today.
 
 [^^c04n06]: For a clear explanation of vipassana meditation, along with much common-sense advice for dealing with common difficulties, see Gunaratana, Bhante, *Mindfulness in Plain English, 20th Anniversary Edition*, Wisdom Publications 2011 (ISBN 9780861719068). An earlier edition can be found as an [online etext](http://www.vipassana.com/meditation/mindfulness_in_plain_english.php).
 
@@ -256,7 +256,7 @@
 
 [^^c04n12]: The four sublime states to be cultivated as part of Buddhist practice are *metta*, loving-kindness; *karuna*, compassion; *mudita*, appreciative joy; and *upekkha*, equanimity. Buddhism is a really *nice* religion.
 
-[^^c04n13]: The Buddha taught for 40 years around 400 B.C.E., a time when a teacher's words were preserved by verbal transmission from teacher to student. Around 200 B.C.E., Buddhists held a conference and wrote down all they could remember of these teachings. They wrote in Pali, a linguistic relative of Sanskrit. Those writings -- modified by the errors, omissions, and interpolations of 80-plus generations of scribes and translators -- survive today as the Pali Canon (which can be read online, see [Canon op.cit.](#OPCIT8).
+[^^c04n13]: The Buddha taught for 40 years around 400 B.C.E., a time when a teacher's words were preserved by verbal transmission from teacher to student. Around 200 B.C.E., Buddhists held a conference and wrote down all they could remember of these teachings. They wrote in Pali, a linguistic relative of Sanskrit. Those writings -- modified by the errors, omissions, and interpolations of 80-plus generations of scribes and translators -- survive today as the Pali Canon (which can be read online, see [Canon op.cit.](#OPCIT_SAM).
 
     The Pali Canon is like two other important traditional documents: the Hebrew scriptures, and the Dialogues of Socrates. It is similar in age and in its method of transmission, manual copying by devoted scholars. The Pali Canon is more like Plato's record of Socrates' teachings, in that it aims to convey the teachings of one man. We cannot be sure we have an accurate account of the words of either Socrates or the Buddha, but we can guess that when the Canon claims the Buddha taught such-and-such, and especially when the same idea turns up several times using the similar terms and images, that it is fairly sure that the historical Buddha actually said something pretty much kinda like that.
 
@@ -280,7 +280,7 @@
 
 [^^c05n07]: On a tour of Turkey our group was allowed to visit several mosques, not only the awesome Blue Mosque in Istanbul but also tiny neighborhood mosques in an ancient village. At each of these places, we were asked to remove our shoes before entering the ritual space, as Moslem worshippers do. Moslems provide neat wooden shoe-shelves just outside the door of the mosque, and convenient benches or steps where you can sit to untie and retie your laces. While tying laces, I could not help but think about the Buddhist meditation group we sometimes attend back home. Here also, we all remove our shoes before entering the modest room where we "sit." It amused me to recall, in Turkey, how the Californians do not provide so well for the practicalities of their ritual space: there are no racks, no benches; and at the end of a sitting, the tiny lobby is a mass of people trying to find their shoes among the dozens of pairs on the floor, and put them on while standing up. 
 
-{id:OPCIT9}
+{id:OPCIT_FULG}
 [^^c05n08]: Fulghum, Robert. *From Beginning to End: The Rituals of Our Lives*. Ivy Books, 1995 (ISBN 0-8041-1114-6).
 
 [^^c05n09]: In my imagination I hear groans from readers who are appalled at such blatant pandering to primitive superstition! But look: for all our pretensions, we are not wholly rational beings. We *aspire* to rationality, but we look up at that shining goal from a brain that is firmly embedded in the body of a primate. One miracle of our rationality is that we can use it to comprehend ourselves, and to recognize just how ancient are the foundations of our minds! So: down in the sub-basement of your mind there is some antique hardware that is not totally clear on the difference between *wishing* and *doing*. It would be irrational to deny that. In fact, the rational thing to do is to use those parts of ourselves: put them to work to further the aims of the cerebral cortex!
@@ -289,10 +289,12 @@
 
 [^^c05n11]: Apologies here to any reader South of the equator, where the dates are the same but the amounts of sunlight are reversed.
 
-[^^c05n12]: The [Sacred Secular Sanctuary page](http://www.sacredsecularsanctuary.com/) breaks the solar year into eight parts and puts celebrations on the "cross-quarter" days halfway between the solstices and equinoxes. They make February 2, the half-way point from the December solstice to the March 20th equinox, into "Pale Blue Dot Day". That was the day when the Voyager spacecraft snapped the picture of Earth that became famous as "the pale blue dot" in Carl Sagan's famous soliloquy. You know, the one that begins "That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives."
+[^^c05n12]: The [Sacred Secular Sanctuary page](http://www.sacredsecularsanctuary.com/) breaks the solar year into eight parts and puts celebrations on the "cross-quarter" days halfway between the solstices and equinoxes. They make February 2, the half-way point from the December solstice to the March 20th equinox, into "Pale Blue Dot Day". That was the day when the Voyager spacecraft snapped the picture of Earth that became famous as "the pale blue dot" (see and read about the image in [wikipedia](https://en.wikipedia.org/wiki/Pale_Blue_Dot)). Carl Sagan composed a famous soliloquy on this picture, including the lines, "That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives." Listen to it [here](https://www.loc.gov/item/cosmos000110/).
+
 
 [^^c05n13]: I speculate that this is why so many rituals center on eating or drinking. The varied actions of filling plates and glasses, sipping and nibbling, wiping the lips on a napkin, passing things to other people, and so on, give a shy person things to do in place of actually interacting with other people. The food and drink provide simple topics of conversation. They give ways in which you can symbolically serve and groom other people without having to make an emotional commitment. If conversation moves in an uncomfortable direction, they give you excuses to interrupt or divert the talk. In other words, I say food is part of so many rituals not because the sharing of food has some great Jungian significance in our collective unconscious, but because the mechanics of sharing food and drink give us such a convenient set of "displacement activities" to use as a buffer.
 
+{id:OPCIT_KLUGER}
 [^^c05n14]: Kluger-Bell, Kim. *Unspeakable Losses: understanding the experience of pregnancy loss, miscarriage, and abortion*, W.W. Norton & Company Inc., 1998 (ISBN 0-393-14572-2).
 
 [^^c05n15]: Fein, Esther B. "For lost pregnancies, new rites of mourning." *New York Times* 1/25/97.
@@ -303,7 +305,7 @@
 
 [^^c05n17]: I'm getting all sniffly just imagining this. It would have been *beautiful*. 
 
-[^^c05n18]: [Fulghum op.cit.](#OPCIT9)
+[^^c05n18]: [Fulghum op.cit.](#OPCIT_FULG)
 
 [^^c05n19]: Beck, Renee and Sydney Barbara Metrick, *The Art of Ritual: A Guide to Creating and Performing Your Own Rituals for Growth and Change*, Apocryphile Press, 2009. ISBN 978-1933993768.
 
@@ -390,64 +392,74 @@
 
 [^^c07n15]: Turns out that Mark Twain had the same thought, saying, "Let us endeavor to so live that when we come to die even the undertaker will be sorry."
 
-[^^c08n01]: (Web Epictetus)
+{id:OPCIT_EPIC}
+
+[^^c08n01]: Epictetus (Elizabeth Carter tr.), *Enchiridion*. Available from [The Internet Classics Archive](http://classics.mit.edu/Epictetus/epicench.html) (retrieved 7 July 17).
 
 [^^c08n02]: Actually, books on death, dying, grief, and bereavement have multiplied greatly in the latest decade. American culture is paying more, and more sophisticated, attention to death as we "boomers" begin to feel the edge of death's shadow.
 
-[^^c08n03]: Debora Duda in (Duda 1987).
+{id:OPCIT_DUDA}
 
-[^^c08n04]: Epicurus, *Letter to Monoeceus*, see (Web Epicurus).
+[^^c08n03]: Duda, Deborah. *Coming Home: a guide to dying at home and with dignity*, Aurora Press, 1987; now out of print but an updated version is available as an etext from [Amazon.com](https://www.amazon.com/Coming-Home-Practical-Compassionate-Caring-ebook/dp/B005O2PVOY).
 
-    However it should be noted that this very sensible position has been challenged by several modern philosophers. For a sample of the arguments pro and con, see essays by Rosenberg, Nagel, and others in (Fischer 1993). The most complete analysis of Epicurus that I have seen is in (Feldman 1992). These essays, in my personal opinion, demonstrate how dismally far modern philosophy has drifted from any meaningful concerns of life.
+[^^c08n04]: Epicurus (tr. Robert Drew Hicks), *Letter to Monoeceus*, at the [Monadnock Press](http://monadnock.net/epicurus/letter.html).
 
-    Feldman and the other anti-Epicureans do not argue that a dead person feels regret or pain (or anything else); they only argue the abstract point of whether death should be considered to be bad or not; in other words, whether Epicurus was correct to say "Death, therefore, ... is nothing to us." Feldman constructs an elegant, abstruse argument showing that for a person X, a hypothetical world in which X is not dead will usually have greater value than a world in which X is dead, and therefore most Xs, in dying, lose something of value, and hence death must be bad for most Xs.
+[^^c08n05]: "Folly of the fear of death." in Lucretius, Titus Carus, *On the Nature of Things, Book III* (William Ellery Leonard, tr.) at the [Internet Classics Archive](http://classics.mit.edu/Carus/nature_things.3.iii.html). Note that Mark Twain said something very similar: "I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it.” ALSO CHECK EPICurus
 
-    Somehow this debate is allowed to ignore the issue that X, when alive, cannot know when she will die, and so cannot form any useful concept of this loss of value; and yet when dead, X is permanently incapable of calculating the loss, or of regretting it. In short, it ignores Epicurus's precise point, crisply expressed as "when we are, death is not come, and when death is come, we are not." But the whole value and comfort of Epicurus's doctrine, for ordinary people's lives and well-being, lies exactly in this.
+[^^c08n06]:  For a sample of the arguments pro and con, see essays by Rosenberg, Nagel, and others in *The Metaphysics of Death* (Fischer, John Martin, ed., Stanford University Press, 1993). The most complete analysis of Epicurus that I have seen is in *Confrontations with the Reaper: A philosophical study of the nature and value of death* (Feldman, Fred, Oxford University Press, 1992).
 
-[^^c08n05]: "Folly of the fear of death." in *On the Nature of Things, Book III*, (Web Lucretius). Note that Mark Twain said something very similar: "I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it.”
+[^^c08n07]: The only rap song I actually like, K. Flay's "Doctor Don't Know". [Video](https://www.youtube.com/watch?v=W1Dn7stu068) with striking images that echo and mock conventional symbols of death; [lyrics](http://www.songlyrics.com/k-flay/doctor-don-t-know-lyrics/).
 
-[^^c08n07]: The only rap song I actually like, K. Flay's "Doctor Don't Know", see (Web Flay).
+[^^c08n08]: [Kluger-Bell, op.cit.](#OPCIT_KLUGER)
 
-[^^c08n08]: (Kluger-Bell 1998). There are 
+{id:OPCIT_STROEBE}
+[^^c08n09]: In this summary I am echoing ideas gleaned from
+"Bereavement as a psychosocial transition: Processes of adaptation to change," Colin Murray Parkes, and, to a lesser degree, from "Bereavement from the perspective of cognitive-experiential self-theory," Seymour Epstein; both found in Stroebe, Margaret S., Wolfgang Stroebe and Robert O. Hansson, *Handbook of Bereavement*, Cambridge University Press, 1993.
 
-[^^c08n09]: In this summary I am echoing ideas gleaned from (Parkes 1993) and, to a lesser degree, from (Epstein 1993).
+[^^c08n10]: From [Parkes, op.cit.](#OPCIT_STROEBE)
 
-[^^c08n10]: (Parkes 1993)
+[^^c08n11]: Shuchter, Stephen R. and Signey Zisook, "The course of normal grief," found in [Stroebe et al op.cit.](#OPCIT_STROEBE).
 
-[^^c08n11]: (Shuchter and Zisook 1993)
 
-[^^c08n12]: (Gonda and Ruark 1984)
+[^^c08n12]: Gonda, Thomas Andrew M.D. and John Edward Ruark, M.D., *Dying Dignified: The health professional's guide to care*, Addison-Wesley Publishing Company, 1984.
 
-[^^c08n13]: (Stearns 1984)
+[^^c08n13]: Stearns, Ann Kaiser, *Living Through Personal Crisis* (2nd ed.), Idyll Arbor 2010.
 
-[^^c08n14]: (Menten 1991)
+[^^c08n14]: Menten, Ted, *Gentle Closings: How to say goodby to someone you love*, Running Press, 1992.
 
-[^^c08n15]:  In these paragraphs I am summarizing ideas that I took primarily from (Bluebond-Langner 1978), and in part from (Despelder and Strickland 1983) and (Kluger-Bell 1998).
+{id:OPCIT_BLUEBOND}
 
-[^^c08n16]: (Bluebond-Langner 1978)
+[^^c08n15]:  In these paragraphs I am summarizing ideas that I took primarily from Bluebond-Langner, Myra, *The Private Worlds of Dying Children*, Princeton University Press, 1978; and in part from DeSpelder, Lynne Ann and Albert Lee Strickland, *The Last Dance: Encountering death and dying*, Mayfield Publishing Company, 1983, and from [Kluger-Bell, op.cit.](#OPCIT_KLUGER).
 
-[^^c08n17]: (Despelder and Strickland 1983)
+[^^c08n16]: [Bluebond-Langner, op.cit](#OPCIT_BLUEBOND)
 
-[^^c08n17b]: (Web Hintjens)
+[^^c08n17]: [Despelder and Strickland, op.cit.](#OPCIT_BLUEBOND)
 
-[^^c08n18]: (Field and Cassel 1997)
+[^^c08n17b]: Pieter Hintjen's blog posts are ["A protocol for dying"](http://hintjens.com/blog:115) and ["Fighting Cancer"](http://hintjens.com/blog:123).
 
-[^^c08n19]:  If you need to explore the option of dying at home or in hospice, see (Sankar 1999), (Duda 1987); or perform one of the following searches on the Amazon.com search page:
+[^^c08n17c]: Crispin Jago's site is [Rational Cancer](http://rationalcancer.blogspot.co.uk/).
 
-    Search using the two words *dying home* in the Title Words field for a list of more than 20 books including the two cited.
-    Search on the title word *hospice* for books on hospice care.
-    Search on the title word *caregiving* for books on caring for the sick at home.
-    For more immediate information on dying alternatives see the links under (Web Dying).
+[^^c08n18]: Field, Marilyn J. and Christine K. Cassel, eds., *Approaching Death: improving care at the end of life (report by the Committee on Care at the End of Life, Division of Health Care Services, Institute of Medicine)*, National Academy Press, 1997.
 
-[^^c08n20]: When least year a relative of mine entered the final phases of dying, his medical plan provided for at-home hospice care, which included installing a hospital-type bed, oxygen, and some other professional equipment in his bedroom, and paid for a full-time home-care person to help his wife.
+[^^c08n19]:  If you need to explore the option of dying at home or in hospice, see Sankar, Andrea, *Dying at Home: A family guide for caregiving*, Johns Hopkins University Press, 1999; or [Duda, op.cit.](#OPCIT_DUDA); or perform one of the following searches on the Amazon.com search page:
 
-[^^c08n21]: Several recent books offer helpful, consumer-oriented advice; I note (Reigle 2003), (Jones 2010) and (Smith 2013) but searching an online bookstore on "funeral consumer" will turn up more.
+    Search using the two words *dying home* in the Title Words field for a list of more than 20 books including the two cited. Search on the title word *hospice* for books on hospice care. Search on the title word *caregiving* for books on caring for the sick at home.
 
-[^^c08n22]: For starting points, see (Web Funerals).
+[^^c08n20]: When last year a relative of mine entered the final phases of dying, his medical plan provided for at-home hospice care, which included installing a hospital-type bed, oxygen, and some other professional equipment in his bedroom, and paid for a full-time home-care person to help his wife during his last weeks.
 
-[^^c08n23]: (Web Dhammapada)
+[^^c08n21]: Several recent books offer helpful, consumer-oriented advice. In a quick search I note: Reigle, John M., *When Death Occurs: A Practical Consumer's Guide to Burial, Cremation, Body Donation, Funerals, and Memorials*, Consumer Advocate Press 2003; Jones, Karen, *Death for Beginners: Your No-Nonsense, Money-Saving Guide to Planning for the Inevitable*, Quill Driver Books, 2010; and Smith, Scott Taylor, *When Someone Dies: The Practical Guide to the Logistics of Death*, Scribner, 2013; but searching an online bookstore on "funeral consumer" will turn up those and more.
 
-[^^c08n24]: (Clifford 2015)
+[^^c08n22]: For starting points, see these sites:
+    
+    The [Funeral Consumer's Alliance](https://funerals.org/) is a nonprofit that provides consumer information.
+
+    The U.S. Federal Trade Commission has a number of articles on funeral costs and consumer's rights (which are protected by Federal law). Start with the pamphlet [*Shopping for Funeral Services*](https://www.bulkorder.ftc.gov/publications/shopping-funeral-services) and the brochure [*Paying Final Respects: Your Rights When Buying Funeral Goods and Services*](https://www.bulkorder.ftc.gov/publications/paying-final-respects-your-rights-when-buying-funeral-goods-and-services).
+
+[^^c08n23]: The *Dhammapada*, an ancient collection of poetic aphorisms that illuminate aspects of the Buddha's teachings, is [available online](http://www.accesstoinsight.org/canon/khuddaka/dhp/index.html); it's an easy and enjoyable read.
+
+{id:OPCIT_CLIFFORD}
+
+[^^c08n24]: Clifford, Denis, *Estate Planning Basics: What you need to know about wills, trusts & avoiding probate*, NOLO Press, 2015.
 
 [^^c08n25]: A power of attorney is a document that gives another a person the right to act for you, for example, to sign contracts in your name. A normal power of attorney document is not valid when you are unconscious, because the law assumes that if you could speak, you might want to revoke it. A so-called "durable" power of attorney remains in force even if you are incapacitated. An elderly person who wants to pass control of financial affairs to a trusted younger relative would execute a durable power of attorney for financial affairs, so the younger person can pay bills and so forth even if the older one becomes demented. The durable power of attorney for health care, sometimes called a "medical proxy," is specifically designed to delegate the power to act for you in medical matters.
 
@@ -457,65 +469,78 @@
 
     On the plane ride I thought about this. The guard's attitude toward death and human remains had led him into a shocking breach of airport security. There could have been two kilos of anything in that metal box, heroin, a gun, explosives. The guard should have inspected the documentation carefully, perhaps even called the mortuary. But he let his fear of death stampede him into a bad decision.
 
-[^^c08n27]: I and my wife have contracted with a California organization, the Neptune Society. A single contract for each of us provides for collecting the body, cremating it, and scattering the ashes at sea. The survivors only need to make one phone call, and will never deal with a funeral home. Similar organizations exist in other states.
+[^^c08n27]: I and my wife have contracted with a California organization, the [Neptune Society](https://www.neptunesociety.com/). A single contract for each of us provides for collecting the body, cremating it, and scattering the ashes at sea. The survivors only need to make one phone call, and will never deal with a funeral home. Similar organizations exist in other states.
 
-[^^c08n28]: (Leary 1997)
+[^^c08n28]: Leary, Timothy, with R.U. Sirius, *Design for Dying*. HarperCollins, 1997; reprinted by Forgotten Books, 2017.
 
-[^^c08n29]: For example, (Clifford 2015)
+[^^c08n29]: For example, [Clifford, op.cit.](#OPCIT_CLIFFORD)
 
-[^^c08n30]: Available from, for example, (Web Nolo).
+[^^c08n30]: [NOLO Press](http://www.nolo.com) offers articles on estate planning and other legal topics, as well as selling highly-regarded self-help legal books and software.
 
 [^^c08n31]: My wife and I went through the work of setting up a probate-avoiding Living Trust in 1998, along with all the other documents mentioned in this section. The whole business took roughly thirty hours of work spread over a month. One time-consuming part was making two trips to the county courthouse to change the deed of our home from ourselves as joint tenants to our Trust. Other time was spent in locating records, making trips to a lawyer's office, and so on.
 
-    We have revisited the documents on several occasions since, most recently last year. The Living Trust document has had to be revised twice for various reason. Last year we added an informal Digital Legacy document, listing all our online accounts and passwords that would need to be closed by an executor.
+    We have revisited the documents on several occasions since, most recently last year when we added digital directive letters. The Living Trust document has had to be revised twice for various reason.
 
-[^^c08n32]: Me? I'm partial to Misner and Smith's infectious anthem "Next Time Around" (Lyrics: http://misnerandsmith.com/seven-hour-storm/#nexttimearound, performance: https://www.youtube.com/watch?v=hfcf0efZB1o).
+[^^c08n32]: Me? I'm partial to Misner and Smith's infectious anthem "Next Time Around"; [performance video]() and [lyrics](http://misnerandsmith.com/seven-hour-storm/#nexttimearound).
 
-[^^c10n01]: For the first edition of this book, I learned about happiness research mostly from David Myers's *The Pursuit of Happiness* (Myers 1992) and from Martin Seligman's *Learned optimism* (Seligman 1990). Regrettably Myers's book is out of print, although it is still worth reading if you find it in a library.
+[^^c10n01]: For the first edition of this book, I learned about happiness research mostly from David Myers, *The Pursuit of Happiness: Who is happy--and why* and from Martin Seligman's *Learned optimism*. Regrettably Myers's book is out of print, although it is still worth reading if you find it in a library.
 
-    Seligman went on to publish a best-seller, *Authentic Happiness* and then, more recently, *Flourish* (Seligman 2011). That book, and his websites at the University of Pennsylvania (Web Happiness) were useful sources for the current edition. Another important source was Lyubomirsky's *The How of Happiness* (Lyubomirsky 2007). All these writers are drawing on the same, growing body of research in the school of Positive Psychology, whose conclusions I'm summarizing.
+    Seligman went on to publish a best-seller, *Authentic Happiness* and then, more recently, [*Flourish*](#OPCIT_SELIGMAN). That book, and his websites at the University of Pennsylvania were useful sources for the current edition. Another important source was Lyubomirsky's *The How of Happiness*. All these writers are drawing on the same, growing body of research in the school of Positive Psychology, whose conclusions I'm summarizing.
 
-[^^c10n02]: (Brickman and Coates 1978)
+[^^c10n02]: Brickman, Philip and Dan Coates, "Lottery winners and accident victims: is happiness relative?" *Journal of Personality and Social Psychology* Vol.36 No.8 p917-927.
 
-[^^c10n03]: (Costa et. al. 1987)
+[^^c10n03]: Costa, P., R. McCrae and A. Zonderman, "Environmental and dispositional influences on well-being: Longitudinal follow-up of an American national sample", *British Journal of Psychology* Vol.78 p299-306.
 
-[^^c10n04]: (Campbell 1981)
+[^^c10n04]: Campbell, Angus, *The Sense of Well-Being in America*, McGraw-Hill, 1981.
 
-[^^c10n05]: (Myers 1992)
+[^^c10n05]: Myers, David G. Ph.D., *The Pursuit of Happiness: Who is happy--and why*, William Morrow and Company, Inc. 1992
 
 [^^c10n06]: (Lyubomirsky 2005) is the academic paper, and (Lyubomirsky 2007) is the popular book.
 
-[^^c10n07]: (Seligman 2011) page 30.
+{id: OPCIT_SELIGMAN}
 
-[^^c10n08]: (Lyubomirsky 2005)
+[^^c10n07]: Seligman, Martin E. P., *Flourish: A Visionary New Understanding of Happiness and Well-being*, reprinted by Atria Books 2012; page 30.
 
-[^^c10n08a]: (Wiking 2017)
+[^^c10n08]: Lyubomirsky, Sonja, Kennon M. Sheldon, and David Schkade, "Pursuing Happiness: The Architecture of Sustainable Change". *Review of General Psychology* 9:111-31; available in full [online](http://sonjalyubomirsky.com/wp-content/themes/sonjalyubomirsky/papers/LSS2005.pdf) (PDF, retrieved 7 July 17).
 
-[^^c10n08b]: (Putnam 2000), my emphasis.
+[^^c10n08a]: Wiking, Miek, *The Little Book of Hygge: Danish Secrets to Happy Living*, William Morrow, 2017.
 
-[^^c10n09]: From *Walden* (Web Thoreau)
+[^^c10n08b]: [Putnam, op.cit.](#OPCIT_PUTNAM), my emphasis.
 
-[^^c10n10]: If you can tolerate the inherent contradiction of researching the simple life with your web browser, search on "simple minimalist lifestyle". See (Web Simplicity) for a few good starter links.
+[^^c10n09]: From *Walden*. Information about Henry David Thoreau, as well as the complete texts of *Walden* and his other works, is available at several sites online, notably [Walden.org](http://www.walden.org/thoreau/) (retrieved 7 July 17).
 
-[^^c11n01]: [Bergin and Richards op. cit.](#OPCIT1)
+[^^c10n10]: If you can tolerate the inherent contradiction of researching the simple life with your web browser, search on "simple minimalist lifestyle". The following are good introductions to the lifestyle of voluntary simplicity, also called minimalism (all retrieved 7 July 17):
+
+    [Becoming Minimalist](https://bh.becomingminimalist.com/becoming-minimalist-start-here/)
+    [Simplicity Collective](http://simplicitycollective.com/start-here/what-is-voluntary-simplicity)
+    [The Simple Dollar](http://www.thesimpledollar.com/)
+    [Simple Green Living](http://simplegreenliving.com/)
+    [Voluntary Simplicity](http://www.choosingvoluntarysimplicity.com/)
+
+    A subset of minimalism is the "slow house" movement started by architecture guru John Brown, at [Slow Home Studio](http://slowhomestudio.com/about-us/). See also [Apartment Therapy](http://www.apartmenttherapy.com).
+    
+
+[^^c11n01]: [Bergin and Richards op. cit.](#OPCIT_BR)
 
 [^^c11n02]: I swear, I wrote most of the following paragraphs before reading Epictetus or Epicurus. But since it hews so close to the Epicurean line, I daren't take credit for original thought. I absorbed these ideas from many sources.
 
-[^^c11n03]: Web Epictetus
+[^^c11n03]: [Epictetus, op.cit.](#OPCIT_EPIC)
 
 [^^c11n04]: Professional sports also base their popularity on getting people emotionally involved in contests that they cannot personally influence. Being a fan of a losing team is quite painful, and clearly demonstrates the negative power of attachment. Think about it: a large, wealthy, and powerful industry -- the whole apparatus of professional and collegiate sports promotion, and all the advertisers who use sports as a medium -- all that is founded on the idea of getting you to *abandon* detachment, and commit yourself to caring about their product, over which you have no influence whatever.
 
 [^^c11n05]:  I had a chance to test this in practice when, on the morning of September 11, 2001 I sat in my bathrobe and watched all the events of that day unfold on TV. One of the many thoughts that passed through my mind that morning was, "Well, here's a perfect example of an event that is out of my control." Knowing that made it possible to recognize what was going on, I think, with less of that common, shell-shocked reaction, "I can't believe it's really happening."
 
-[^^c11n06]: There has been research to support this claim. (It's cool when modern research supports ancient philosophy.) Richards and Gross showed emotionally unpleasant pictures to two groups of people. One group was told to suppress any display of emotions while they watched. The other group was told to "view these slides with the detached interest of a medical professional." Not only did the detached group report less emotional distress afterward, they also retained better verbal and nonverbal recall of the experience than did the group who were trying only to suppress their emotions (Richards and Gross 2000).
+[^^c11n06]: There has been research to support this claim. (It's cool when modern research supports ancient philosophy.) Richards and Gross showed emotionally unpleasant pictures to two groups of people. One group was told to suppress any display of emotions while they watched. The other group was told to "view these slides with the detached interest of a medical professional." Not only did the detached group report less emotional distress afterward, they also retained better verbal and nonverbal recall of the experience than did the group who were trying only to suppress their emotions (Richards, Jane M. and James J. Gross, "Emotion Regulation and Memory: the cognitive costs of keeping one's cool", *Journal of Personality and Social Psychology Vol.79 No.3 p410-424. Can be [read online](http://www.apa.org/pubs/journals/releases/psp793410.pdf) (PDF, retrieved 7 July 17).
 
-[^^c11n07]: See (Web Forgiveness) and Luskin's book (Luskin 2010).
+[^^c11n07]:  Luskin's Forgiveness research is found in Luskin, Frederic, PhD., *Forgive for Good*, HarperCollins 2010; and is online at [Learning to Forgive](http://www.learningtoforgive.com). A similar but unrelated effort is the [Forgiveness Project](http://theforgivenessproject.com/).
 
-[^^c11n08]: See (Web Happiness) for links to this work.
+[^^c11n08]: See [Happiness links op.cit.](#OPCIT_HAPPY) for links to this work.
 
-[^^c11n08]: (Seligman 1990) for the early work, and Chapter 9 of (Seligman 2011) for a lengthy review of the research connecting optimism with physical health.
+[^^c11n08]: See Chapter 9 of [*Flourish, op.cit.](OPCIT_SELIGMAN) for a lengthy review of the research connecting optimism with physical health.
 
-[^^c11n09]: (Web Happiness) for the link. You must register with the Authentic Happiness site; then you can take the Optimism questionnaire along with several other interesting assay tests.
+[^^c11n09]:  Martin Seligman's [Authentic Happiness site](https://www.authentichappiness.sas.upenn.edu/) at the University of Pennsylvania has many self-test questionnaires, and links to resources. You must register with the site; then you can take the Optimism questionnaire along with several other interesting assay tests.
 
-[^^cxan01]: See (Lubben 1988) for the original paper. See Web LSNS for information and permission to use and for a link to the discussion of scoring and the choice of 12 as the cut-point for clinical risk.
+    The official, academic site for the UPenn [Center for Positive Psychology](http://ppc.sas.upenn.edu/) has resources for teachers and academics including the program of [Resilience Training](http://ppc.sas.upenn.edu/services/penn-resilience-training).
+
+[^^cxan01]: See Lubben, J., "Assessing social networks among elderly populations" (*Family & Community Health: The Journal of Health Promotion & Maintenance*, 11, 42-52) for the original paper. The Lubben Social Network Scale is [documented online](http://www.bc.edu/schools/gssw/lubben.html), and that site includes permissions for use, and scoring information. For a discussion of the scoring and the use of the cut-point of 12, see [this paper by Lubben](http://gerontologist.oxfordjournals.org/content/46/4/503.full).
 
