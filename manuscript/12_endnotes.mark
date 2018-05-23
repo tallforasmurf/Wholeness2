@@ -116,6 +116,18 @@
 
 [^^c02n06]: Whether we actually do have free will -- and, if we do, how it emerges from the biochemical operations of our brains, which are essentially mechanical and presumably deterministic -- are questions that have been debated by people with better minds than I have. For an introduction to the difficulties of this slippery problem, you might see Gardner, Martin, "The Mystery of Free Will" in *The Night Is Large: Collected Essays 1938-1995* (St. Martin's Press, 1996) for an informal discussion, or the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/freewill/) for the technical discussion.
 
+[^^c02n06b]: For a terse, poetic discussion of the conflict between determinism and free will, listen to [Free Will](https://www.youtube.com/watch?v=bpOyQhgM1FU) by the band Rush (retrieved 23 May 2018).
+
+	____
+	Each of us
+	A cell of awareness
+	Imperfect and incomplete
+	Genetic blends
+	With uncertain ends
+	On a fortune hunt
+	That’s far too fleet.
+	____
+
 [^^c02n01]: Ask the internet the question "how many permutations of human DNA are possible" if you need a way to pass a long afternoon of browsing! The genome can be partitioned in different ways, and estimates vary widely depending on which numbers you choose to combine -- but the result is always a huge number.
 
 	One approach is to recall that the genome comprises 46 *chromosomes* (bundles of genes). When the body makes a *gamete* (a sperm or an egg) it pulls the DNA apart to make a set of 23 chromosomes (the process called *meiosis*), and each of the 23 has a *random* combination of the genes from that chromosome of the parent cell. So one parent can produce exactly 2^23^ unique gametes from his or her own genome.  When a sperm meets an egg, they combine their chromosomes to make a complete set of 46, composed of those random selections from the parents. Combining these odds, *one pair of parents* could produce up to 70,368,744,177,664 unique children. Multiply that by the number of parents alive to get the count of possible unique genomes in the next generation.
