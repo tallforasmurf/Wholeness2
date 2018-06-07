@@ -31,8 +31,8 @@ ___
 
 {title="LUBBEN SOCIAL NETWORK SCALE – 6 (LSNS-6)"}
 {width="wide"}
-|----------|---------|---------|-------------------|-------------------|------------------|
-| | Considering people to whom you are related by birth, marriage, adoption, etc,:      | |
+|==========|=========|=========|===================|===================|==================|
+|   Considering people to whom you are related by birth, marriage, adoption, etc,:        |
 |----------|---------|---------|-------------------|-------------------|------------------|
 | 1. How many relatives do you see or hear from at least once a month?                    |
 |----------|---------|---------|-------------------|-------------------|------------------|
@@ -59,7 +59,7 @@ ___
 | 6. How many friends do you feel close to such that you could call on them for help?     |
 |----------|---------|---------|-------------------|-------------------|------------------|
 |*none* (0)|*one* (1)|*two* (2)|*three or four* (3)|*five to eight* (4)|*nine or more* (5)|
-|----------|---------|---------|-------------------|-------------------|------------------|
+|==========|=========|=========|===================|===================|==================|
 
 
 Done? Good! If your score is 12 or above, you should not have any concern about your social connectivity. The body of [Chapter 3](#Chapter03) will be of only academic interest to you.
