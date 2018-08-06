@@ -1,4 +1,3 @@
 00_introduction.mark
 01_religious_benefits.mark
 02_validity.mark
-12_endnotes.mark
