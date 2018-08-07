@@ -1,7 +1,7 @@
-{sample:true}
-{id:Introduction}
+{sample: true}
 # Introduction
 
+{id:Introduction}
 We all want to lead a life of excellence: an honest life; a creative life; a generous life -- a life that, when it is over, will leave a monument of good memories in the hearts of those who knew us.
 
 For millenia, religions have claimed the role of gate-keeper on the path to that well-lived life. Do you want to know why you exist? How you should live? How you ought to behave? How to face death? The old answer was to read some scripture, or to talk to your priest, rabbi, imam or pastor.
@@ -59,3 +59,4 @@ Here is what you'll find in the rest of the book.
 * [Chapter 10](#Chapter10) is about some techniques for making oneself more resilient in the face of disaster.
 
 And [Chapter 11](#Chapter11) wraps it up. In [the Bibliography](#Bibliography) is a list of books that can take you deeper into any of the subjects I touch on.
+{sample: false}
