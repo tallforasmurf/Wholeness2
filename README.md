@@ -15,10 +15,15 @@ I. **Considering people to whom you are related by birth, marriage, adoption, et
 
   1. How many relatives do you see or hear from at least once a month?
      a. *none* (0)
+     
      b. *one* (1)
+     
      c. *two* (2)
+     
      d. *three or four* (3)
+     
      e. *five to eight* (4)
+     
      f. *nine or more* (5)
 
   2. How many relatives do you feel at ease with that you can talk about private matters? |
