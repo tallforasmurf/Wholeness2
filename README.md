@@ -17,6 +17,7 @@ Is this a table?
 
 is that?
 
+|*none* (0)|*one* (1)|*two* (2)|*three or four* (3)|*five to eight* (4)|*nine or more* (5)|
 |----------|---------|---------|-------------------|-------------------|------------------|
 |   Considering people to whom you are related by birth, marriage, adoption, etc,:        |
 |----------|---------|---------|-------------------|-------------------|------------------|
