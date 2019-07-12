@@ -10,7 +10,6 @@ Referenced images are stored in the manuscript/images folder.
 
 Source files and other meta-data are stored locally, not on github.
 
-|==========|=========|=========|===================|===================|==================|
 |   Considering people to whom you are related by birth, marriage, adoption, etc,:        |
 |----------|---------|---------|-------------------|-------------------|------------------|
 | 1. How many relatives do you see or hear from at least once a month?                    |
@@ -38,5 +37,4 @@ Source files and other meta-data are stored locally, not on github.
 | 6. How many friends do you feel close to such that you could call on them for help?     |
 |----------|---------|---------|-------------------|-------------------|------------------|
 |*none* (0)|*one* (1)|*two* (2)|*three or four* (3)|*five to eight* (4)|*nine or more* (5)|
-|==========|=========|=========|===================|===================|==================|
 
