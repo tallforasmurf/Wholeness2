@@ -9,6 +9,13 @@ Chapter text files are located in the folder Manuscript.
 Referenced images are stored in the manuscript/images folder.
 
 Source files and other meta-data are stored locally, not on github.
+Is this a table?
+
+| foo | bar |
+| --- | --- |
+| baz | bim |
+
+is that?
 
 |----------|---------|---------|-------------------|-------------------|------------------|
 |   Considering people to whom you are related by birth, marriage, adoption, etc,:        |
