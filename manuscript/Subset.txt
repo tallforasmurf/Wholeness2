@@ -1,6 +1,13 @@
 00_introduction.mark
 01_religious_benefits.mark
-02_validity.mark
+#02_validity.mark
+03_community.mark
+#04_tranquility.mark
+#05_ritual.mark
+#06_mystical.mark
+#07_rolemodels.mark
+#08_ethics.mark
+09_death.mark
 10_happiness.mark
 11_resilience.mark
 14_envoi.mark
