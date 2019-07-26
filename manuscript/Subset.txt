@@ -1,4 +1,6 @@
 00_introduction.mark
+01_religious_benefits.mark
+02_validity.mark
 09_death.mark
 14_envoi.mark
 
