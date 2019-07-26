@@ -6,7 +6,7 @@
 05_ritual.mark
 #06_mystical.mark
 07_rolemodels.mark
-#08_ethics.mark
+08_ethics.mark
 09_death.mark
 10_happiness.mark
 11_resilience.mark
