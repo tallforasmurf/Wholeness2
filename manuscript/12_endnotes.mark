@@ -115,7 +115,8 @@
 
 [^^c02n06b]: For a terse, poetic discussion of the conflict between determinism and free will, listen to [Free Will](https://www.youtube.com/watch?v=bpOyQhgM1FU) by the band Rush (retrieved July 2019).
 
-    ~~~
+{line-numbers:false}
+~~~
     Each of us
     A cell of awareness
     Imperfect and incomplete
@@ -123,7 +124,7 @@
     With uncertain ends
     On a fortune hunt
     That’s far too fleet.
-    ~~~
+~~~
 
 [^^c02n01]: Ask the internet the question "how many permutations of human DNA are possible" if you need a way to pass a long afternoon of browsing! The genome can be partitioned in different ways, and estimates vary widely depending on which numbers you choose to combine--but the result is always a huge number.
 
