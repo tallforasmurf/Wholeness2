@@ -412,7 +412,9 @@
 [^^c07n13]: Singer, Peter, *How Are We to Live? Ethics in an age of self-interest*, Prometheus Books, 1995 (ISBN 0-87975-966-6).
 
 [^^c07n14]: The idea that following the Precepts is a way of giving the gift of safety to others is of course not my original expression; it's from the Buddha:
-    ___
+
+{line-numbers:false}
+~~~
     A noble disciple, abandoning the taking of life, abstains from taking life.
     In doing so, he gives freedom from danger,
     freedom from animosity,
@@ -422,8 +424,7 @@
     freedom from animosity, 
     freedom from oppression.
     This is the first gift, the first great gift...
-    ___  
-
+~~~
 
 [^^c08n01]: Epictetus{id: fn-c08n01} (Elizabeth Carter tr.), *Enchiridion*. Available from [The Internet Classics Archive](http://classics.mit.edu/Epictetus/epicench.html) (retrieved July 2019).
 
